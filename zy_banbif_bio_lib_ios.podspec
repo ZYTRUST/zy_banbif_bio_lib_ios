@@ -7,7 +7,7 @@
 #abc
 Pod::Spec.new do |s|
   s.name             = 'zy_banbif_bio_lib_ios'
-  s.version          = '0.0.1.5'
+  s.version          = '0.0.1.6'
   s.summary          = 'A short description of zy_banbif_bio_lib_ios.'
   s.swift_versions   = '5.0'
 # This description is used to generate tags and improve search results.
@@ -28,24 +28,9 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '12.0'
   s.platform = :ios
-    #s.swift_version = "4.2"
-  #s.source_files = 'zy_banbif_bio_lib_ios/Classes/**/*'
+  s.swift_version = "5.0"
   s.vendored_frameworks = "zy_banbif_bio_lib_ios.xcframework"
-  s.public_header_files = "zy_fpay_validacionfacial_lib_ios.xcframework/Headers/*.h"
-  s.source_files = "zy_fpay_validacionfacial_lib_ios.xcframework/Headers/*.h"
 
-  #s.resource_bundles = {
-   # 'zy_fpay_validacionfacial_lib_ios' => ['zy_fpay_validacionfacial_lib_ios/Assets/**/*.{png,storyboard,plist}']
-  #}
-  
-   
-  #s.resources = ['zy_banbif_bio_lib_ios/Assets/Resources/Texts/*.txt'  , 'zy_banbif_bio_lib_ios/Assets/Resources/StoryBoard/*.{lproj,storyboard,xcassets,png}']
-   
-  #s.resource_bundle = {'zy_banbif_bio_lib_ios' => ['zy_banbif_bio_lib_ios/Assets/Resources/StoryBoard/*.{lproj,storyboard,xcassets,png}' , 'zy_banbif_bio_lib_ios/Assets/Resources/Texts/*.txt']}
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
   s.static_framework = true
 
   s.dependency 'zy_lib_idemia_face_ios', '~> 6.4.0'

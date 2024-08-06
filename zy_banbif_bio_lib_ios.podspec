@@ -7,7 +7,7 @@
 #abc
 Pod::Spec.new do |s|
   s.name             = 'zy_banbif_bio_lib_ios'
-  s.version          = '0.0.1.2'
+  s.version          = '0.0.1.3'
   s.summary          = 'A short description of zy_banbif_bio_lib_ios.'
   s.swift_versions   = '5.0'
 # This description is used to generate tags and improve search results.
@@ -39,9 +39,9 @@ TODO: Add long description of the pod here.
   #}
   
    
-   #s.resources = ['zy_banbif_bio_lib_ios/Assets/Resources/Texts/*.txt'  , 'zy_banbif_bio_lib_ios/Assets/Resources/StoryBoard/*.{lproj,storyboard,xcassets,png}']
+  #s.resources = ['zy_banbif_bio_lib_ios/Assets/Resources/Texts/*.txt'  , 'zy_banbif_bio_lib_ios/Assets/Resources/StoryBoard/*.{lproj,storyboard,xcassets,png}']
    
-  #s.resource_bundle = {'zy_banbif_bio_lib_ios' => ['zy_banbif_bio_lib_ios/Assets/Resources/StoryBoard/*.{lproj,storyboard,xcassets,png}' , 'zy_banbif_bio_lib_ios/Assets/Resources/Texts/*.txt']}
+  s.resource_bundle = {'zy_banbif_bio_lib_ios' => ['zy_banbif_bio_lib_ios/Assets/Resources/StoryBoard/*.{lproj,storyboard,xcassets,png}' , 'zy_banbif_bio_lib_ios/Assets/Resources/Texts/*.txt']}
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'

@@ -7,7 +7,7 @@
 #abc
 Pod::Spec.new do |s|
   s.name             = 'zy_banbif_bio_lib_ios'
-  s.version          = '0.0.1.6'
+  s.version          = '0.0.1.7'
   s.summary          = 'A short description of zy_banbif_bio_lib_ios.'
   s.swift_versions   = '5.0'
 # This description is used to generate tags and improve search results.
@@ -29,7 +29,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '12.0'
   s.platform = :ios
   s.swift_version = "5.0"
-  s.vendored_frameworks = "zy_banbif_bio_lib_ios.xcframework"
+  s.vendored_xcframeworks = "zy_banbif_bio_lib_ios.xcframework"
 
   s.static_framework = true
 

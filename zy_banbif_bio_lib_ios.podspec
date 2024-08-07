@@ -7,7 +7,7 @@
 #abc
 Pod::Spec.new do |s|
   s.name             = 'zy_banbif_bio_lib_ios'
-  s.version          = '0.0.3.1'
+  s.version          = '0.0.3.2'
   s.summary          = 'A short description of zy_banbif_bio_lib_ios.'
   s.swift_versions   = '5.0'
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
   s.platform = :ios
   s.swift_version = "5.0"
 
-  s.resources= {'zy_banbif_bio_lib_ios' => ['zy_banbif_bio_lib_ios.bundle']}
+  s.resource_bundle = {'zy_banbif_bio_lib_ios' => ['zy_banbif_bio_lib_ios.bundle']}
 
   s.vendored_frameworks = "zy_banbif_bio_lib_ios.xcframework"
 

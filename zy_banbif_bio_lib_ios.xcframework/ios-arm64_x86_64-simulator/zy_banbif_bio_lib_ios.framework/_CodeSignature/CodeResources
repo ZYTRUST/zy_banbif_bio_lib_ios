@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/zy_banbif_bio_lib_ios.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		LYoA3aEJ60FRFhEqWSA3pNkZ/M8=
+		zfWguxW4nQ4Q4m2Ut8DbuGqyvgI=
 		</data>
 		<key>Modules/zy_banbif_bio_lib_ios.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		16IUNMMf9i0lNR+BbLLOSjJBqgI=
+		AMjRGDlvNbuE3HDWrr64JLCPN9g=
 		</data>
 		<key>Modules/zy_banbif_bio_lib_ios.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -68,18 +68,6 @@
 		<data>
 		TA491Z3Clv2nVMo2J8AHGFM/4wA=
 		</data>
-		<key>zyfpaydialog.storyboardc/Info.plist</key>
-		<data>
-		vW1wAOCT0CEaTORrzflOdwGIydo=
-		</data>
-		<key>zyfpaydialog.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
-		<data>
-		sJAEvQap2k7dr3JSkj1DxyQcVw8=
-		</data>
-		<key>zyfpaydialog.storyboardc/ZyUILoadingView.nib</key>
-		<data>
-		wIzSVr2tVyUX4Vsi+TEd3zBdKeI=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -120,22 +108,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LYoA3aEJ60FRFhEqWSA3pNkZ/M8=
+			zfWguxW4nQ4Q4m2Ut8DbuGqyvgI=
 			</data>
 			<key>hash2</key>
 			<data>
-			0AQikyrv/DyNUQPZg0NT1MtWvvMwI1Z3P5qLDtyhoco=
+			m20mzjOe2TX/i+KQN+wpELrfd6+Bm8JMDBCis3n2DyY=
 			</data>
 		</dict>
 		<key>Modules/zy_banbif_bio_lib_ios.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			16IUNMMf9i0lNR+BbLLOSjJBqgI=
+			AMjRGDlvNbuE3HDWrr64JLCPN9g=
 			</data>
 			<key>hash2</key>
 			<data>
-			1qnyD8aJ9aTz6RwWc8ou9fTRMRZtQfGjndkHDaFPE0U=
+			JBKQGf4/wL2uSjSWBCEe0+Fr5fyOadXaHItxh5zpFt0=
 			</data>
 		</dict>
 		<key>Modules/zy_banbif_bio_lib_ios.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -246,39 +234,6 @@
 			<key>hash2</key>
 			<data>
 			vnDXHHtwiXBtr8tbv5SApCvet6q5utvailBfoJ9z0ZY=
-			</data>
-		</dict>
-		<key>zyfpaydialog.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vW1wAOCT0CEaTORrzflOdwGIydo=
-			</data>
-			<key>hash2</key>
-			<data>
-			1C/pQAUlMRmY+zoRzRLf94DuDl6OYIkqnslaDIzz7uU=
-			</data>
-		</dict>
-		<key>zyfpaydialog.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			sJAEvQap2k7dr3JSkj1DxyQcVw8=
-			</data>
-			<key>hash2</key>
-			<data>
-			KfjwNjsPkTkkGv2EOYk0iGiAxtj+uvdMHfqNETMiHGQ=
-			</data>
-		</dict>
-		<key>zyfpaydialog.storyboardc/ZyUILoadingView.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wIzSVr2tVyUX4Vsi+TEd3zBdKeI=
-			</data>
-			<key>hash2</key>
-			<data>
-			VvjoYmixsI25sHb5VhxdENz2wBu32mDUbE2I1prsxnU=
 			</data>
 		</dict>
 	</dict>

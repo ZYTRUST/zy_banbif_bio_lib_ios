@@ -7,7 +7,7 @@
 #abc
 Pod::Spec.new do |s|
   s.name             = 'zy_banbif_bio_lib_ios'
-  s.version          = '0.0.4.6'
+  s.version          = '0.0.4.7'
   s.summary          = 'A short description of zy_banbif_bio_lib_ios.'
   s.swift_versions   = '5.0'
 # This description is used to generate tags and improve search results.
@@ -36,9 +36,9 @@ TODO: Add long description of the pod here.
 
   s.static_framework = true
 
-  s.dependency 'zy_lib_idemia_face_ios', '~> 6.4.0'
+  s.dependency 'zy_lib_idemia_face_ios'
 
-  s.dependency 'zy_lib_become_ocr_ios', '~> 7.3.3'
+  s.dependency 'zy_lib_become_ocr_ios'
   s.dependency 'zy_lib_dummy_ocr_ios'
 
   s.dependency 'lottie-ios' 
@@ -48,8 +48,8 @@ TODO: Add long description of the pod here.
 
   #s.dependency 'ZyUICargando', '~> 0.1.9'
   
-  s.dependency 'Microblink', '1.1'
-  s.dependency 'BecomeDigitalV', '~>  3.2'
+  #s.dependency 'Microblink', '1.1'
+  #s.dependency 'BecomeDigitalV', '~>  3.2'
 
   
 end

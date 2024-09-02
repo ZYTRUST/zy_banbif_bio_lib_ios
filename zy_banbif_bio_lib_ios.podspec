@@ -7,7 +7,7 @@
 #abc
 Pod::Spec.new do |s|
   s.name             = 'zy_banbif_bio_lib_ios'
-  s.version          = '0.0.2'
+  s.version          = '0.0.5'
   s.summary          = 'A short description of zy_banbif_bio_lib_ios.'
   s.swift_versions   = '5.0'
 # This description is used to generate tags and improve search results.

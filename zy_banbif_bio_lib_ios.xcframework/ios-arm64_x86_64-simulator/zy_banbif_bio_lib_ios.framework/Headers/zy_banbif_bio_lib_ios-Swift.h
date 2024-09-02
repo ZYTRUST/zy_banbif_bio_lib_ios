@@ -279,7 +279,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 @import Foundation;
 @import ObjectiveC;
-@import UIKit;
 #endif
 
 #endif
@@ -330,50 +329,7 @@ SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios13ReactResponse")
 @interface ReactResponse : NSObject
 @property (nonatomic, copy) NSString * _Nonnull coError;
 @property (nonatomic, copy) NSString * _Nonnull deError;
-@property (nonatomic, copy) NSString * _Nonnull soliNuOperacion;
-@property (nonatomic, copy) NSString * _Nonnull facebioCodError;
-@property (nonatomic, copy) NSString * _Nonnull facebioDeError;
-@property (nonatomic, copy) NSString * _Nullable facebioCodErrorReniec;
-@property (nonatomic, copy) NSString * _Nullable facebioDeErrorReniec;
-@property (nonatomic, copy) NSString * _Nonnull facebioTiDoc;
-@property (nonatomic, copy) NSString * _Nonnull facebioNuDoc;
-@property (nonatomic, copy) NSString * _Nonnull facebioPreNom;
-@property (nonatomic, copy) NSString * _Nonnull facebioApPat;
-@property (nonatomic, copy) NSString * _Nonnull facebioApMat;
-@property (nonatomic, copy) NSString * _Nonnull facebioScore;
-@property (nonatomic, copy) NSString * _Nonnull faceidTxn;
-@property (nonatomic, copy) NSString * _Nonnull facenuSolicitud;
-@property (nonatomic, copy) NSString * _Nonnull facefacialImageSearchbuffer;
-@property (nonatomic, copy) NSString * _Nonnull facefacialImageSearchformatType;
-@property (nonatomic, copy) NSString * _Nonnull facefacialImageSearchheight;
-@property (nonatomic, copy) NSString * _Nonnull facefacialImageSearchwidth;
-@property (nonatomic, copy) NSString * _Nonnull rsValidacionDocScoreValidacion;
-@property (nonatomic, copy) NSString * _Nonnull rsValidacionDocResultadoValidacion;
-@property (nonatomic, copy) NSString * _Nullable rsOcrFirstName;
-@property (nonatomic, copy) NSString * _Nullable rsOcrLastName;
-@property (nonatomic, copy) NSString * _Nullable rsOcrDateOfExpiry;
-@property (nonatomic, copy) NSString * _Nullable rsOcrDateOfBirth;
-@property (nonatomic, copy) NSString * _Nullable rsOcrSex;
-@property (nonatomic, copy) NSString * _Nullable rsOcrAge;
-@property (nonatomic, copy) NSString * _Nullable rsOcrResultadoBioCodError;
-@property (nonatomic, copy) NSString * _Nullable rsOcrResultadoBioDeError;
-@property (nonatomic, copy) NSString * _Nullable rsOcrResultadoBioCodErrorVB;
-@property (nonatomic, copy) NSString * _Nullable rsOcrResultadoBioCodesErrorVB;
-@property (nonatomic, copy) NSString * _Nullable rsOcrResultadoBioScore;
-@property (nonatomic, copy) NSString * _Nullable rsEvaluacionEdadEdadAprox;
-@property (nonatomic, copy) NSString * _Nullable rsEvaluacionEdadEesultadoValidacion;
-@property (nonatomic, copy) NSString * _Nullable rsOcrSelfiebioCodError;
-@property (nonatomic, copy) NSString * _Nullable rsOcrSelfiebioDeError;
-@property (nonatomic, copy) NSString * _Nullable rsOcrSelfiebioCodErrorVB;
-@property (nonatomic, copy) NSString * _Nullable rsOcrSelfiebioDeErrorVB;
-@property (nonatomic, copy) NSString * _Nullable rsOcrSelfieidTxn;
-@property (nonatomic, copy) NSString * _Nullable rsOcrSelfienuSolicitud;
-@property (nonatomic, copy) NSString * _Nullable rsOcrSelfiebioScore;
-@property (nonatomic, copy) NSString * _Nullable rsValidacionDatosbioCodError;
-@property (nonatomic, copy) NSString * _Nullable rsValidacionDatosbioDeError;
-@property (nonatomic, copy) NSString * _Nullable rsValidacionDatosbioCodErrorVB;
-@property (nonatomic, copy) NSString * _Nullable rsValidacionDatosbioDeErrorVB;
-@property (nonatomic, copy) NSString * _Nullable rsValidacionDatosbioScore;
+@property (nonatomic, copy) NSString * _Nonnull bmoNuSolicitud;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -447,20 +403,9 @@ SWIFT_CLASS_NAMED("ZyApiCross")
 SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios11ZyReactComp")
 @interface ZyReactComp : NSObject
 - (nonnull instancetype)initOnView:(UIViewController * _Nonnull)onView OBJC_DESIGNATED_INITIALIZER;
+- (void)reactValidacionFacial:(ReactRequest * _Nonnull)reactRequest completion:(void (^ _Nonnull)(ReactResponse * _Nonnull))completion;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
-@end
-
-@class NSBundle;
-@class NSCoder;
-
-SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios15ZyUILoadingView")
-@interface ZyUILoadingView : UIViewController
-- (void)viewDidLoad;
-@property (nonatomic, readonly) UIInterfaceOrientationMask supportedInterfaceOrientations;
-@property (nonatomic, readonly) BOOL shouldAutorotate;
-- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
 
 #endif
@@ -752,7 +697,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 @import Foundation;
 @import ObjectiveC;
-@import UIKit;
 #endif
 
 #endif
@@ -803,50 +747,7 @@ SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios13ReactResponse")
 @interface ReactResponse : NSObject
 @property (nonatomic, copy) NSString * _Nonnull coError;
 @property (nonatomic, copy) NSString * _Nonnull deError;
-@property (nonatomic, copy) NSString * _Nonnull soliNuOperacion;
-@property (nonatomic, copy) NSString * _Nonnull facebioCodError;
-@property (nonatomic, copy) NSString * _Nonnull facebioDeError;
-@property (nonatomic, copy) NSString * _Nullable facebioCodErrorReniec;
-@property (nonatomic, copy) NSString * _Nullable facebioDeErrorReniec;
-@property (nonatomic, copy) NSString * _Nonnull facebioTiDoc;
-@property (nonatomic, copy) NSString * _Nonnull facebioNuDoc;
-@property (nonatomic, copy) NSString * _Nonnull facebioPreNom;
-@property (nonatomic, copy) NSString * _Nonnull facebioApPat;
-@property (nonatomic, copy) NSString * _Nonnull facebioApMat;
-@property (nonatomic, copy) NSString * _Nonnull facebioScore;
-@property (nonatomic, copy) NSString * _Nonnull faceidTxn;
-@property (nonatomic, copy) NSString * _Nonnull facenuSolicitud;
-@property (nonatomic, copy) NSString * _Nonnull facefacialImageSearchbuffer;
-@property (nonatomic, copy) NSString * _Nonnull facefacialImageSearchformatType;
-@property (nonatomic, copy) NSString * _Nonnull facefacialImageSearchheight;
-@property (nonatomic, copy) NSString * _Nonnull facefacialImageSearchwidth;
-@property (nonatomic, copy) NSString * _Nonnull rsValidacionDocScoreValidacion;
-@property (nonatomic, copy) NSString * _Nonnull rsValidacionDocResultadoValidacion;
-@property (nonatomic, copy) NSString * _Nullable rsOcrFirstName;
-@property (nonatomic, copy) NSString * _Nullable rsOcrLastName;
-@property (nonatomic, copy) NSString * _Nullable rsOcrDateOfExpiry;
-@property (nonatomic, copy) NSString * _Nullable rsOcrDateOfBirth;
-@property (nonatomic, copy) NSString * _Nullable rsOcrSex;
-@property (nonatomic, copy) NSString * _Nullable rsOcrAge;
-@property (nonatomic, copy) NSString * _Nullable rsOcrResultadoBioCodError;
-@property (nonatomic, copy) NSString * _Nullable rsOcrResultadoBioDeError;
-@property (nonatomic, copy) NSString * _Nullable rsOcrResultadoBioCodErrorVB;
-@property (nonatomic, copy) NSString * _Nullable rsOcrResultadoBioCodesErrorVB;
-@property (nonatomic, copy) NSString * _Nullable rsOcrResultadoBioScore;
-@property (nonatomic, copy) NSString * _Nullable rsEvaluacionEdadEdadAprox;
-@property (nonatomic, copy) NSString * _Nullable rsEvaluacionEdadEesultadoValidacion;
-@property (nonatomic, copy) NSString * _Nullable rsOcrSelfiebioCodError;
-@property (nonatomic, copy) NSString * _Nullable rsOcrSelfiebioDeError;
-@property (nonatomic, copy) NSString * _Nullable rsOcrSelfiebioCodErrorVB;
-@property (nonatomic, copy) NSString * _Nullable rsOcrSelfiebioDeErrorVB;
-@property (nonatomic, copy) NSString * _Nullable rsOcrSelfieidTxn;
-@property (nonatomic, copy) NSString * _Nullable rsOcrSelfienuSolicitud;
-@property (nonatomic, copy) NSString * _Nullable rsOcrSelfiebioScore;
-@property (nonatomic, copy) NSString * _Nullable rsValidacionDatosbioCodError;
-@property (nonatomic, copy) NSString * _Nullable rsValidacionDatosbioDeError;
-@property (nonatomic, copy) NSString * _Nullable rsValidacionDatosbioCodErrorVB;
-@property (nonatomic, copy) NSString * _Nullable rsValidacionDatosbioDeErrorVB;
-@property (nonatomic, copy) NSString * _Nullable rsValidacionDatosbioScore;
+@property (nonatomic, copy) NSString * _Nonnull bmoNuSolicitud;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -920,20 +821,9 @@ SWIFT_CLASS_NAMED("ZyApiCross")
 SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios11ZyReactComp")
 @interface ZyReactComp : NSObject
 - (nonnull instancetype)initOnView:(UIViewController * _Nonnull)onView OBJC_DESIGNATED_INITIALIZER;
+- (void)reactValidacionFacial:(ReactRequest * _Nonnull)reactRequest completion:(void (^ _Nonnull)(ReactResponse * _Nonnull))completion;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
-@end
-
-@class NSBundle;
-@class NSCoder;
-
-SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios15ZyUILoadingView")
-@interface ZyUILoadingView : UIViewController
-- (void)viewDidLoad;
-@property (nonatomic, readonly) UIInterfaceOrientationMask supportedInterfaceOrientations;
-@property (nonatomic, readonly) BOOL shouldAutorotate;
-- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
 
 #endif

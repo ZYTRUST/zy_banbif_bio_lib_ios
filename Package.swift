@@ -22,7 +22,7 @@ let package = Package(
             path: "zy_banbif_bio_lib_ios.xcframework"
         ),
         .target(
-            name: "zy_banbif_bio_lib_ios_resources",
+            name: "zy_banbif_bio_lib_ios",
             resources: [
                 .process("zy_banbif_bio_lib_ios.bundle")
             ]

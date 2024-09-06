@@ -329,6 +329,8 @@ SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios13ReactResponse")
 @interface ReactResponse : NSObject
 @property (nonatomic, copy) NSString * _Nonnull coError;
 @property (nonatomic, copy) NSString * _Nonnull deError;
+@property (nonatomic, copy) NSString * _Nonnull coErrorButton;
+@property (nonatomic, copy) NSString * _Nonnull deErrorButton;
 @property (nonatomic, copy) NSString * _Nonnull bmoNuSolicitud;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
@@ -747,6 +749,8 @@ SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios13ReactResponse")
 @interface ReactResponse : NSObject
 @property (nonatomic, copy) NSString * _Nonnull coError;
 @property (nonatomic, copy) NSString * _Nonnull deError;
+@property (nonatomic, copy) NSString * _Nonnull coErrorButton;
+@property (nonatomic, copy) NSString * _Nonnull deErrorButton;
 @property (nonatomic, copy) NSString * _Nonnull bmoNuSolicitud;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end

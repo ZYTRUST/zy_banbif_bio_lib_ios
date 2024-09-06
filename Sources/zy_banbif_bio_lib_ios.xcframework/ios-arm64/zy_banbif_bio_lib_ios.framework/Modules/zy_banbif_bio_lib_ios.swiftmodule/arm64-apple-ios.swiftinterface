@@ -2574,6 +2574,8 @@ public struct ZyLibErrorButton {
 @objc @_inheritsConvenienceInitializers @objcMembers public class ReactResponse : ObjectiveC.NSObject {
   @objc public var coError: Swift.String
   @objc public var deError: Swift.String
+  @objc public var coErrorButton: Swift.String
+  @objc public var deErrorButton: Swift.String
   @objc public var bmoNuSolicitud: Swift.String
   @objc override dynamic public init()
   @objc deinit

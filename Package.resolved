@@ -77,8 +77,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/ZYTRUST/zy_lib_idemia_face_ios.git",
       "state" : {
-        "revision" : "43b4bb9be0bd525f39b8bff06641e936c83bf2cd",
-        "version" : "6.4.34"
+        "revision" : "14ac52e68212dcbff968e7e2b58466b1cab05803",
+        "version" : "6.4.42"
       }
     },
     {

@@ -14,7 +14,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/ZYTRUST/zy_lib_idemia_face_ios.git", from: "6.4.34"),
+        .package(url: "https://github.com/ZYTRUST/zy_lib_idemia_face_ios.git", from: "6.4.42"),
         .package(url: "https://github.com/ZYTRUST/zy_lib_regula_ocr_ios.git", from: "0.1.12"),
         .package(url: "https://github.com/ZYTRUST/zy_banbif_lib_ui_ios.git", from: "0.0.4"),
         .package(url: "https://github.com/krzyzanowskim/CryptoSwift.git", from: "1.3.3"),
@@ -34,10 +34,7 @@ let package = Package(
                 .product(name: "CryptoSwift", package: "CryptoSwift"),
                 .product(name: "JWTDecode", package: "JWTDecode.swift")
             ],
-            path: "Sources/zy_banbif_bio_lib_ios_target",
-            resources: [
-                .process("Sources/zy_banbif_bio_lib_ios.bundle")
-            ]
+            path: "Sources/zy_banbif_bio_lib_ios_target"
         )
     ]
 )

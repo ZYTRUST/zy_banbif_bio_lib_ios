@@ -2215,6 +2215,7 @@ public struct ZyCrossRequest {
   public var bmoApPaterno: Swift.String
   public var bmoApMaterno: Swift.String
   public var isDialogActivated: Swift.Bool
+  public var url: Swift.String
 }
 public struct ZyCrossResponse : Swift.Codable {
   public var coError: Swift.String

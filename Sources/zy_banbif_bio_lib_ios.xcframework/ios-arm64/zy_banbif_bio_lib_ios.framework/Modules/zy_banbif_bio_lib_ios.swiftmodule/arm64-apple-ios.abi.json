@@ -88209,6 +88209,99 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "url",
+            "printedName": "url",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@zy_banbif_bio_lib_ios@objc(cs)ReactRequest(py)url",
+            "mangledName": "$s21zy_banbif_bio_lib_ios12ReactRequestC3urlSSvp",
+            "moduleName": "zy_banbif_bio_lib_ios",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@zy_banbif_bio_lib_ios@objc(cs)ReactRequest(im)url",
+                "mangledName": "$s21zy_banbif_bio_lib_ios12ReactRequestC3urlSSvg",
+                "moduleName": "zy_banbif_bio_lib_ios",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@zy_banbif_bio_lib_ios@objc(cs)ReactRequest(im)setUrl:",
+                "mangledName": "$s21zy_banbif_bio_lib_ios12ReactRequestC3urlSSvs",
+                "moduleName": "zy_banbif_bio_lib_ios",
+                "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:21zy_banbif_bio_lib_ios12ReactRequestC3urlSSvM",
+                "mangledName": "$s21zy_banbif_bio_lib_ios12ReactRequestC3urlSSvM",
+                "moduleName": "zy_banbif_bio_lib_ios",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init()",
@@ -97653,112 +97746,119 @@
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyReactComp.swift",
       "kind": "StringLiteral",
-      "offset": 2559,
+      "offset": 2573,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyReactComp.swift",
       "kind": "StringLiteral",
-      "offset": 2599,
+      "offset": 2613,
       "length": 6,
       "value": "\"FULL\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyReactComp.swift",
       "kind": "StringLiteral",
-      "offset": 2636,
+      "offset": 2650,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyReactComp.swift",
       "kind": "StringLiteral",
-      "offset": 2682,
+      "offset": 2696,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyReactComp.swift",
       "kind": "StringLiteral",
-      "offset": 2724,
+      "offset": 2738,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyReactComp.swift",
       "kind": "StringLiteral",
-      "offset": 2760,
+      "offset": 2774,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyReactComp.swift",
       "kind": "StringLiteral",
-      "offset": 2797,
+      "offset": 2811,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyReactComp.swift",
       "kind": "StringLiteral",
-      "offset": 2835,
+      "offset": 2849,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyReactComp.swift",
       "kind": "StringLiteral",
-      "offset": 2875,
+      "offset": 2889,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyReactComp.swift",
       "kind": "StringLiteral",
-      "offset": 2915,
+      "offset": 2929,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyReactComp.swift",
       "kind": "BooleanLiteral",
-      "offset": 2958,
+      "offset": 2972,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyReactComp.swift",
       "kind": "StringLiteral",
-      "offset": 3053,
+      "offset": 3005,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyReactComp.swift",
+      "kind": "StringLiteral",
+      "offset": 3099,
       "length": 6,
       "value": "\"8000\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyReactComp.swift",
       "kind": "StringLiteral",
-      "offset": 3090,
+      "offset": 3136,
       "length": 26,
       "value": "\"8000:Operación correcta\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyReactComp.swift",
       "kind": "StringLiteral",
-      "offset": 3153,
+      "offset": 3199,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyReactComp.swift",
       "kind": "StringLiteral",
-      "offset": 3192,
+      "offset": 3238,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyReactComp.swift",
       "kind": "StringLiteral",
-      "offset": 3232,
+      "offset": 3278,
       "length": 2,
       "value": "\"\""
     },

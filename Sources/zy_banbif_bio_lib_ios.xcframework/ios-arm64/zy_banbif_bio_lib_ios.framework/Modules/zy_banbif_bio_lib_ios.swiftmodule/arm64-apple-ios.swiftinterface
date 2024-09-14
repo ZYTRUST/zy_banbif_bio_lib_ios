@@ -2569,6 +2569,7 @@ public struct ZyLibErrorButton {
   @objc public var bmoApPaterno: Swift.String
   @objc public var bmoApMaterno: Swift.String
   @objc public var isDialogActivated: Swift.Bool
+  @objc public var url: Swift.String
   @objc override dynamic public init()
   @objc deinit
 }

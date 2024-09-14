@@ -321,6 +321,7 @@ SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios12ReactRequest")
 @property (nonatomic, copy) NSString * _Nonnull bmoApPaterno;
 @property (nonatomic, copy) NSString * _Nonnull bmoApMaterno;
 @property (nonatomic) BOOL isDialogActivated;
+@property (nonatomic, copy) NSString * _Nonnull url;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -741,6 +742,7 @@ SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios12ReactRequest")
 @property (nonatomic, copy) NSString * _Nonnull bmoApPaterno;
 @property (nonatomic, copy) NSString * _Nonnull bmoApMaterno;
 @property (nonatomic) BOOL isDialogActivated;
+@property (nonatomic, copy) NSString * _Nonnull url;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 

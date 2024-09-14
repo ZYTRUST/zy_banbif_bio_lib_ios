@@ -7,7 +7,7 @@
 #abc
 Pod::Spec.new do |s|
   s.name             = 'zy_banbif_bio_lib_ios'
-  s.version          = '0.1.4'
+  s.version          = '0.1.5'
   s.summary          = 'A short description of zy_banbif_bio_lib_ios.'
   s.swift_versions   = '5.0'
 # This description is used to generate tags and improve search results.
@@ -40,8 +40,8 @@ TODO: Add long description of the pod here.
 
   s.dependency 'JWTDecode', '3.1.0'
   s.dependency 'CryptoSwift', '1.3.3'
-  s.dependency 'zy_banbif_lib_ui_ios', '0.0.4'
-  s.dependency 'zy_lib_regula_ocr_ios', '0.1.12'
+  s.dependency 'zy_banbif_lib_ui_ios', '0.0.7'
+  s.dependency 'zy_lib_regula_ocr_ios', '0.3.0'
 
   
 end

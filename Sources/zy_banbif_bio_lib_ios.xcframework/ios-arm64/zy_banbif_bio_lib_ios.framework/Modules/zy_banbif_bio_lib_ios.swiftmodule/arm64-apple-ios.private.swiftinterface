@@ -2581,6 +2581,17 @@ public struct ZyLibErrorButton {
   @objc override dynamic public init()
   @objc deinit
 }
+public enum ZyEnvironment : Swift.String {
+  case POC
+  case DEV2
+  case SIGN
+  case DEVX
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
 extension zy_banbif_bio_lib_ios.AuthenticationError : Swift.Equatable {}
 extension zy_banbif_bio_lib_ios.AuthenticationError : Swift.Hashable {}
 extension zy_banbif_bio_lib_ios.ZyTApiErrorEnum : Swift.Equatable {}
@@ -2649,3 +2660,6 @@ extension zy_banbif_bio_lib_ios.ZyTipoOperacion : Swift.RawRepresentable {}
 extension zy_banbif_bio_lib_ios.ZyErrorUi : Swift.Equatable {}
 extension zy_banbif_bio_lib_ios.ZyErrorUi : Swift.Hashable {}
 extension zy_banbif_bio_lib_ios.ZyErrorUi : Swift.RawRepresentable {}
+extension zy_banbif_bio_lib_ios.ZyEnvironment : Swift.Equatable {}
+extension zy_banbif_bio_lib_ios.ZyEnvironment : Swift.Hashable {}
+extension zy_banbif_bio_lib_ios.ZyEnvironment : Swift.RawRepresentable {}

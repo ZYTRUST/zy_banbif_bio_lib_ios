@@ -7,8 +7,8 @@
 #abc
 Pod::Spec.new do |s|
   s.name             = 'zy_banbif_bio_lib_ios'
-  s.version          = '0.2.3'
-  s.summary          = 'A short description of zy_banbif_bio_lib_ios.'
+  s.version          = '0.2.4'
+  s.summary          = 'Libreria realizara para Biometria .'
   s.swift_versions   = '5.0'
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,7 +17,8 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Libreria generada para empresa 11 
+esta libreria realiza validacion biométrica para personas con nacionalidad de Peru
                        DESC
 
   s.homepage         = 'https://www.zytrust.com'
@@ -27,15 +28,11 @@ TODO: Add long description of the pod here.
   s.source = { :git => "https://github.com/ZYTRUST/zy_banbif_bio_lib_ios.git", :tag => s.version.to_s }
 
   s.ios.deployment_target = '13.0'
-  #s.platform = :ios
   s.swift_version = "5.0"
-
   #s.resources = ['Sources/zy_banbif_bio_lib_ios.bundle']
 
   s.vendored_frameworks = "Sources/zy_banbif_bio_lib_ios.xcframework"
-
   s.static_framework = true
-
   s.dependency 'zy_lib_idemia_face_ios', '6.4.42'
 
   s.dependency 'JWTDecode', '3.1.0'

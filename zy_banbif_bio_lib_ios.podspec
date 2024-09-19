@@ -40,7 +40,7 @@ TODO: Add long description of the pod here.
 
   s.dependency 'JWTDecode', '3.1.0'
   s.dependency 'CryptoSwift', '1.3.3'
-  s.dependency 'zy_banbif_lib_ui_ios', '0.1.0'
+  s.dependency 'zy_banbif_lib_ui_ios', '0.1.1'
   s.dependency 'zy_lib_regula_ocr_ios', '0.3.0'
 
   

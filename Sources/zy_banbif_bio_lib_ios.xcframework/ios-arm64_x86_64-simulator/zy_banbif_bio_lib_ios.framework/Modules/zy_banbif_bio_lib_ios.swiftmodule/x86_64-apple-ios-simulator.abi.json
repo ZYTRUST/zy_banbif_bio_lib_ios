@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "zy_banbif_bio_lib_ios",
+    "printedName": "zy_banbif_bio_lib_ios",
     "children": [
       {
         "kind": "Import",
@@ -824,6 +824,22 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              }
             ]
           },
           {
@@ -1015,6 +1031,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "Error",
                 "printedName": "Error",
                 "usr": "s:s5ErrorP",
@@ -1202,6 +1232,22 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              }
             ]
           },
           {
@@ -1322,6 +1368,22 @@
                 "declAttributes": [
                   "AccessControl",
                   "RawDocComment"
+                ],
+                "conformances": [
+                  {
+                    "kind": "Conformance",
+                    "name": "Copyable",
+                    "printedName": "Copyable",
+                    "usr": "s:s8CopyableP",
+                    "mangledName": "$ss8CopyableP"
+                  },
+                  {
+                    "kind": "Conformance",
+                    "name": "Escapable",
+                    "printedName": "Escapable",
+                    "usr": "s:s9EscapableP",
+                    "mangledName": "$ss9EscapableP"
+                  }
                 ]
               },
               {
@@ -1445,6 +1507,22 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              }
             ]
           },
           {
@@ -1822,6 +1900,22 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              }
             ]
           },
           {
@@ -2277,6 +2371,22 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              }
             ]
           },
           {
@@ -2477,6 +2587,22 @@
                 "declAttributes": [
                   "AccessControl",
                   "RawDocComment"
+                ],
+                "conformances": [
+                  {
+                    "kind": "Conformance",
+                    "name": "Copyable",
+                    "printedName": "Copyable",
+                    "usr": "s:s8CopyableP",
+                    "mangledName": "$ss8CopyableP"
+                  },
+                  {
+                    "kind": "Conformance",
+                    "name": "Escapable",
+                    "printedName": "Escapable",
+                    "usr": "s:s9EscapableP",
+                    "mangledName": "$ss9EscapableP"
+                  }
                 ]
               },
               {
@@ -3315,6 +3441,22 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              }
             ]
           },
           {
@@ -3383,6 +3525,22 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              }
             ]
           },
           {
@@ -5755,6 +5913,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Error",
             "printedName": "Error",
             "usr": "s:s5ErrorP",
@@ -7120,6 +7292,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -7654,6 +7842,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -7724,6 +7928,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -7935,6 +8155,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -8130,6 +8366,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -8310,6 +8560,22 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              }
             ]
           },
           {
@@ -8626,6 +8892,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "RequestInterceptor",
             "printedName": "RequestInterceptor",
             "usr": "s:21zy_banbif_bio_lib_ios18RequestInterceptorP",
@@ -8892,6 +9172,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -9079,6 +9375,22 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              }
             ]
           },
           {
@@ -9319,6 +9631,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "CachedResponseHandler",
@@ -9639,6 +9965,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Publisher",
             "printedName": "Publisher",
             "children": [
@@ -9875,6 +10215,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Publisher",
@@ -10223,6 +10577,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Publisher",
             "printedName": "Publisher",
             "children": [
@@ -10550,6 +10918,22 @@
           "Available",
           "Available",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -10824,6 +11208,22 @@
           "Available",
           "Available",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -11162,6 +11562,22 @@
           "Available",
           "Available",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -11241,6 +11657,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "AsyncIteratorProtocol",
                 "printedName": "AsyncIteratorProtocol",
                 "children": [
@@ -11253,6 +11683,19 @@
                         "kind": "TypeNominal",
                         "name": "GenericTypeParam",
                         "printedName": "τ_0_0"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeWitness",
+                    "name": "Failure",
+                    "printedName": "Failure",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Never",
+                        "printedName": "Swift.Never",
+                        "usr": "s:s5NeverO"
                       }
                     ]
                   }
@@ -11284,6 +11727,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "AsyncSequence",
             "printedName": "AsyncSequence",
             "children": [
@@ -11309,6 +11766,19 @@
                     "kind": "TypeNominal",
                     "name": "GenericTypeParam",
                     "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Failure",
+                "printedName": "Failure",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Never",
+                    "printedName": "Swift.Never",
+                    "usr": "s:s5NeverO"
                   }
                 ]
               }
@@ -11702,6 +12172,20 @@
         ],
         "enumRawTypeName": "Int",
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -15692,6 +16176,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -17537,6 +18037,20 @@
         ],
         "hasMissingDesignatedInitializers": true,
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "EventMonitor",
@@ -27673,6 +28187,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "EventMonitor",
             "printedName": "EventMonitor",
             "usr": "s:21zy_banbif_bio_lib_ios12EventMonitorP",
@@ -28627,6 +29155,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "ExpressibleByDictionaryLiteral",
@@ -29585,6 +30127,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Hashable",
             "printedName": "Hashable",
             "usr": "s:SH",
@@ -30124,6 +30680,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "RawRepresentable",
@@ -30750,6 +31320,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -31112,6 +31698,20 @@
                 "conformances": [
                   {
                     "kind": "Conformance",
+                    "name": "Copyable",
+                    "printedName": "Copyable",
+                    "usr": "s:s8CopyableP",
+                    "mangledName": "$ss8CopyableP"
+                  },
+                  {
+                    "kind": "Conformance",
+                    "name": "Escapable",
+                    "printedName": "Escapable",
+                    "usr": "s:s9EscapableP",
+                    "mangledName": "$ss9EscapableP"
+                  },
+                  {
+                    "kind": "Conformance",
                     "name": "Equatable",
                     "printedName": "Equatable",
                     "usr": "s:SQ",
@@ -31169,6 +31769,20 @@
               "RawDocComment"
             ],
             "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
               {
                 "kind": "Conformance",
                 "name": "Equatable",
@@ -31676,7 +32290,23 @@
           "AccessControl",
           "RawDocComment"
         ],
-        "hasMissingDesignatedInitializers": true
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
       },
       {
         "kind": "Import",
@@ -31961,6 +32591,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "EventMonitor",
             "printedName": "EventMonitor",
             "usr": "s:21zy_banbif_bio_lib_ios12EventMonitorP",
@@ -32213,6 +32857,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -32504,6 +33164,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "ParameterEncoder",
             "printedName": "ParameterEncoder",
             "usr": "s:21zy_banbif_bio_lib_ios16ParameterEncoderP",
@@ -32747,6 +33421,20 @@
               "RawDocComment"
             ],
             "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
               {
                 "kind": "Conformance",
                 "name": "Equatable",
@@ -33001,6 +33689,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "ParameterEncoder",
             "printedName": "ParameterEncoder",
             "usr": "s:21zy_banbif_bio_lib_ios16ParameterEncoderP",
@@ -33090,6 +33792,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -33328,6 +34046,20 @@
               "RawDocComment"
             ],
             "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
               {
                 "kind": "Conformance",
                 "name": "Equatable",
@@ -33577,6 +34309,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "Equatable",
                 "printedName": "Equatable",
                 "usr": "s:SQ",
@@ -33782,6 +34528,20 @@
               "RawDocComment"
             ],
             "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
               {
                 "kind": "Conformance",
                 "name": "Equatable",
@@ -34255,6 +35015,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "ParameterEncoding",
             "printedName": "ParameterEncoding",
             "usr": "s:21zy_banbif_bio_lib_ios17ParameterEncodingP",
@@ -34538,6 +35312,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "ParameterEncoding",
             "printedName": "ParameterEncoding",
             "usr": "s:21zy_banbif_bio_lib_ios17ParameterEncodingP",
@@ -34812,6 +35600,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -35005,6 +35809,22 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              }
             ]
           },
           {
@@ -35251,6 +36071,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "RedirectHandler",
@@ -35586,6 +36420,20 @@
               "RawDocComment"
             ],
             "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
               {
                 "kind": "Conformance",
                 "name": "Equatable",
@@ -38622,6 +39470,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -38876,6 +39738,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -40682,6 +41560,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -41128,6 +42020,22 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              }
             ]
           },
           {
@@ -41311,6 +42219,22 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              }
             ]
           },
           {
@@ -41570,6 +42494,22 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              }
             ]
           },
           {
@@ -41606,6 +42546,22 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              }
             ]
           },
           {
@@ -42468,6 +43424,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -42676,6 +43646,20 @@
               "RawDocComment"
             ],
             "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
               {
                 "kind": "Conformance",
                 "name": "OptionSet",
@@ -42975,6 +43959,22 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              }
             ]
           },
           {
@@ -45158,6 +46158,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -45394,6 +46408,20 @@
               "RawDocComment"
             ],
             "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
               {
                 "kind": "Conformance",
                 "name": "UploadableConvertible",
@@ -45652,6 +46680,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -45712,6 +46754,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -45729,6 +46787,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
           {
             "kind": "Conformance",
             "name": "URLRequestConvertible",
@@ -45858,6 +46930,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -46165,6 +47253,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -46366,6 +47470,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -46522,6 +47642,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -47170,6 +48306,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "RequestRetrier",
             "printedName": "RequestRetrier",
             "usr": "s:21zy_banbif_bio_lib_ios14RequestRetrierP",
@@ -47417,6 +48567,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "RequestInterceptor",
             "printedName": "RequestInterceptor",
             "usr": "s:21zy_banbif_bio_lib_ios18RequestInterceptorP",
@@ -47588,6 +48752,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "RequestInterceptor",
@@ -48185,6 +49363,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "RequestInterceptor",
@@ -49165,6 +50357,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "CustomStringConvertible",
@@ -50197,6 +51403,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "CustomStringConvertible",
             "printedName": "CustomStringConvertible",
             "usr": "s:s23CustomStringConvertibleP",
@@ -50328,6 +51548,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -50564,6 +51800,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -51560,6 +52812,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "DownloadResponseSerializerProtocol",
             "printedName": "DownloadResponseSerializerProtocol",
             "usr": "s:21zy_banbif_bio_lib_ios34DownloadResponseSerializerProtocolP",
@@ -51713,6 +52979,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -51779,6 +53061,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "DataPreprocessor",
@@ -51852,6 +53148,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "DataPreprocessor",
@@ -51976,6 +53286,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "DownloadResponseSerializerProtocol",
@@ -52330,6 +53654,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "ResponseSerializer",
@@ -52795,6 +54133,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "ResponseSerializer",
             "printedName": "ResponseSerializer",
             "usr": "s:21zy_banbif_bio_lib_ios18ResponseSerializerP",
@@ -53235,6 +54587,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "ResponseSerializer",
             "printedName": "ResponseSerializer",
             "usr": "s:21zy_banbif_bio_lib_ios18ResponseSerializerP",
@@ -53322,6 +54688,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -53463,6 +54845,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Decodable",
             "printedName": "Decodable",
             "usr": "s:Se",
@@ -53540,6 +54936,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -53950,6 +55362,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "ResponseSerializer",
             "printedName": "ResponseSerializer",
             "usr": "s:21zy_banbif_bio_lib_ios18ResponseSerializerP",
@@ -54201,6 +55627,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -54390,6 +55832,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "DataStreamSerializer",
             "printedName": "DataStreamSerializer",
             "children": [
@@ -54476,6 +55932,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "DataStreamSerializer",
@@ -54565,6 +56035,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "DataStreamSerializer",
@@ -55509,6 +56993,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "RequestInterceptor",
             "printedName": "RequestInterceptor",
             "usr": "s:21zy_banbif_bio_lib_ios18RequestInterceptorP",
@@ -55697,6 +57195,20 @@
           "zy_banbif_bio_lib_ios.RetryPolicy"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "RequestInterceptor",
@@ -55957,6 +57469,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -56354,6 +57882,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -56435,6 +57979,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "ServerTrustEvaluating",
@@ -56827,6 +58385,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "OptionSet",
                 "printedName": "OptionSet",
                 "children": [
@@ -57012,6 +58584,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "ServerTrustEvaluating",
             "printedName": "ServerTrustEvaluating",
             "usr": "s:21zy_banbif_bio_lib_ios21ServerTrustEvaluatingP",
@@ -57129,6 +58715,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "ServerTrustEvaluating",
             "printedName": "ServerTrustEvaluating",
             "usr": "s:21zy_banbif_bio_lib_ios21ServerTrustEvaluatingP",
@@ -57239,6 +58839,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "ServerTrustEvaluating",
             "printedName": "ServerTrustEvaluating",
             "usr": "s:21zy_banbif_bio_lib_ios21ServerTrustEvaluatingP",
@@ -57334,6 +58948,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "ServerTrustEvaluating",
             "printedName": "ServerTrustEvaluating",
             "usr": "s:21zy_banbif_bio_lib_ios21ServerTrustEvaluatingP",
@@ -57413,6 +59041,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "ServerTrustEvaluating",
@@ -60760,6 +62402,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "RequestDelegate",
             "printedName": "RequestDelegate",
             "usr": "s:21zy_banbif_bio_lib_ios15RequestDelegateP",
@@ -61573,6 +63229,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -61619,6 +63289,13 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
           }
         ]
       },
@@ -65715,6 +67392,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -65810,6 +67501,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -65912,6 +67619,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -66162,6 +67885,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "Equatable",
                 "printedName": "Equatable",
                 "usr": "s:SQ",
@@ -66369,6 +68106,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "Equatable",
                 "printedName": "Equatable",
                 "usr": "s:SQ",
@@ -66542,6 +68293,22 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              }
             ]
           },
           {
@@ -66836,6 +68603,22 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              }
             ]
           },
           {
@@ -67157,6 +68940,22 @@
             "declAttributes": [
               "AccessControl",
               "RawDocComment"
+            ],
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              }
             ]
           },
           {
@@ -67352,6 +69151,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "Equatable",
                 "printedName": "Equatable",
                 "usr": "s:SQ",
@@ -67434,6 +69247,20 @@
               "RawDocComment"
             ],
             "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
               {
                 "kind": "Conformance",
                 "name": "Error",
@@ -68036,6 +69863,22 @@
           "Final",
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -68351,6 +70194,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -68611,6 +70468,22 @@
         "sugared_genericSig": "<T, E>",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -69743,6 +71616,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "Equatable",
                 "printedName": "Equatable",
                 "usr": "s:SQ",
@@ -69867,6 +71754,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -70691,6 +72592,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -71198,6 +73115,22 @@
         "moduleName": "zy_banbif_bio_lib_ios",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -72290,6 +74223,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -73578,6 +75527,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "Equatable",
                 "printedName": "Equatable",
                 "usr": "s:SQ",
@@ -73702,6 +75665,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -76343,6 +78320,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "Equatable",
                 "printedName": "Equatable",
                 "usr": "s:SQ",
@@ -76467,6 +78458,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -77721,6 +79726,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "Equatable",
                 "printedName": "Equatable",
                 "usr": "s:SQ",
@@ -77845,6 +79864,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -78607,6 +80640,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "Equatable",
                 "printedName": "Equatable",
                 "usr": "s:SQ",
@@ -78731,6 +80778,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -80092,6 +82153,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "Equatable",
                 "printedName": "Equatable",
                 "usr": "s:SQ",
@@ -80216,6 +82291,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -80879,6 +82968,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "Equatable",
                 "printedName": "Equatable",
                 "usr": "s:SQ",
@@ -81003,6 +83106,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -82343,6 +84460,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "Equatable",
                 "printedName": "Equatable",
                 "usr": "s:SQ",
@@ -82467,6 +84598,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -83352,6 +85497,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "Equatable",
                 "printedName": "Equatable",
                 "usr": "s:SQ",
@@ -83476,6 +85635,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -83992,6 +86165,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "Equatable",
                 "printedName": "Equatable",
                 "usr": "s:SQ",
@@ -84116,6 +86303,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -85247,6 +87448,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "Equatable",
                 "printedName": "Equatable",
                 "usr": "s:SQ",
@@ -85371,6 +87586,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -86256,6 +88485,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "Equatable",
                 "printedName": "Equatable",
                 "usr": "s:SQ",
@@ -86380,6 +88623,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -86594,6 +88851,20 @@
         ],
         "enumRawTypeName": "Int",
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -86943,6 +89214,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -86989,6 +89274,22 @@
         "moduleName": "zy_banbif_bio_lib_ios",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -87122,6 +89423,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -88338,6 +90653,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -88901,6 +91230,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -89259,6 +91602,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -89482,6 +91839,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Sendable",
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
@@ -89500,6 +91871,7 @@
         "intro_iOS": "2.0",
         "objc_name": "UIViewController",
         "declAttributes": [
+          "Preconcurrency",
           "Available",
           "ObjC",
           "NonSendable",
@@ -89514,6 +91886,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -89645,6 +92031,20 @@
           },
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -89765,6 +92165,20 @@
           },
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "AlamofireExtended",
             "printedName": "AlamofireExtended",
             "children": [
@@ -89791,13 +92205,6 @@
             ],
             "usr": "s:21zy_banbif_bio_lib_ios17AlamofireExtendedP",
             "mangledName": "$s21zy_banbif_bio_lib_ios17AlamofireExtendedP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
           },
           {
             "kind": "Conformance",
@@ -90254,6 +92661,13 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
           },
           {
             "kind": "Conformance",
@@ -90816,6 +93230,20 @@
           },
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "URLRequestConvertible",
             "printedName": "URLRequestConvertible",
             "usr": "s:21zy_banbif_bio_lib_ios21URLRequestConvertibleP",
@@ -90943,6 +93371,20 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -91118,6 +93560,20 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -91325,6 +93781,20 @@
           },
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "CustomReflectable",
             "printedName": "CustomReflectable",
             "usr": "s:s17CustomReflectableP",
@@ -91401,6 +93871,20 @@
         ],
         "isExternal": true,
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -91940,12 +94424,6 @@
                         "name": "TransferRepresentation",
                         "printedName": "CoreTransferable.TransferRepresentation",
                         "usr": "s:16CoreTransferable22TransferRepresentationP"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Sendable",
-                        "printedName": "Swift.Sendable",
-                        "usr": "s:s8SendableP"
                       }
                     ]
                   }
@@ -91985,6 +94463,20 @@
         ],
         "isExternal": true,
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "DataDecoder",
@@ -92046,17 +94538,24 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "DataDecoder",
             "printedName": "DataDecoder",
             "usr": "s:21zy_banbif_bio_lib_ios11DataDecoderP",
             "mangledName": "$s21zy_banbif_bio_lib_ios11DataDecoderP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
           },
           {
             "kind": "Conformance",
@@ -92079,6 +94578,13 @@
             ],
             "usr": "s:7Combine15TopLevelDecoderP",
             "mangledName": "$s7Combine15TopLevelDecoderP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
           }
         ]
       },
@@ -92111,6 +94617,20 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -92201,6 +94721,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "_CFObject",
             "printedName": "_CFObject",
             "usr": "s:14CoreFoundation9_CFObjectP",
@@ -92260,6 +94794,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "_CFObject",
             "printedName": "_CFObject",
             "usr": "s:14CoreFoundation9_CFObjectP",
@@ -92317,6 +94865,20 @@
         ],
         "isExternal": true,
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "_CFObject",
@@ -92521,6 +95083,20 @@
           },
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "AlamofireExtended",
             "printedName": "AlamofireExtended",
             "children": [
@@ -92706,6 +95282,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "BitwiseCopyable",
+            "printedName": "BitwiseCopyable",
+            "usr": "s:s15BitwiseCopyableP",
+            "mangledName": "$ss15BitwiseCopyableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "_FormatSpecifiable",
             "printedName": "_FormatSpecifiable",
             "children": [
@@ -92790,6 +95373,20 @@
         "enumRawTypeName": "UInt32",
         "isExternal": true,
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "RawRepresentable",
@@ -92905,28 +95502,6 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "ReferenceConvertible",
-            "printedName": "ReferenceConvertible",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ReferenceType",
-                "printedName": "ReferenceType",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "NSURL",
-                    "printedName": "Foundation.NSURL",
-                    "usr": "c:objc(cs)NSURL"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:10Foundation20ReferenceConvertibleP",
-            "mangledName": "$s10Foundation20ReferenceConvertibleP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -92948,10 +95523,46 @@
           },
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "URLConvertible",
             "printedName": "URLConvertible",
             "usr": "s:21zy_banbif_bio_lib_ios14URLConvertibleP",
             "mangledName": "$s21zy_banbif_bio_lib_ios14URLConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ReferenceConvertible",
+            "printedName": "ReferenceConvertible",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ReferenceType",
+                "printedName": "ReferenceType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSURL",
+                    "printedName": "Foundation.NSURL",
+                    "usr": "c:objc(cs)NSURL"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Foundation20ReferenceConvertibleP",
+            "mangledName": "$s10Foundation20ReferenceConvertibleP"
           },
           {
             "kind": "Conformance",
@@ -93037,12 +95648,6 @@
                         "name": "TransferRepresentation",
                         "printedName": "CoreTransferable.TransferRepresentation",
                         "usr": "s:16CoreTransferable22TransferRepresentationP"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Sendable",
-                        "printedName": "Swift.Sendable",
-                        "usr": "s:s8SendableP"
                       }
                     ]
                   }
@@ -93102,28 +95707,6 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "ReferenceConvertible",
-            "printedName": "ReferenceConvertible",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ReferenceType",
-                "printedName": "ReferenceType",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "NSURLComponents",
-                    "printedName": "Foundation.NSURLComponents",
-                    "usr": "c:objc(cs)NSURLComponents"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:10Foundation20ReferenceConvertibleP",
-            "mangledName": "$s10Foundation20ReferenceConvertibleP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Hashable",
             "printedName": "Hashable",
             "usr": "s:SH",
@@ -93142,6 +95725,20 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -93170,6 +95767,28 @@
             "printedName": "CustomReflectable",
             "usr": "s:s17CustomReflectableP",
             "mangledName": "$ss17CustomReflectableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ReferenceConvertible",
+            "printedName": "ReferenceConvertible",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ReferenceType",
+                "printedName": "ReferenceType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSURLComponents",
+                    "printedName": "Foundation.NSURLComponents",
+                    "usr": "c:objc(cs)NSURLComponents"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Foundation20ReferenceConvertibleP",
+            "mangledName": "$s10Foundation20ReferenceConvertibleP"
           },
           {
             "kind": "Conformance",
@@ -93360,6 +95979,20 @@
             ],
             "usr": "s:s25ExpressibleByArrayLiteralP",
             "mangledName": "$ss25ExpressibleByArrayLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -93591,118 +96224,6 @@
       "offset": 34438,
       "length": 43,
       "value": "\"org.alamofire.concurrencySingleEventQueue\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/Constantes.swift",
-      "kind": "IntegerLiteral",
-      "offset": 133,
-      "length": 4,
-      "value": "8000"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/Constantes.swift",
-      "kind": "IntegerLiteral",
-      "offset": 166,
-      "length": 4,
-      "value": "2000"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/Constantes.swift",
-      "kind": "IntegerLiteral",
-      "offset": 200,
-      "length": 4,
-      "value": "2001"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/Constantes.swift",
-      "kind": "IntegerLiteral",
-      "offset": 227,
-      "length": 3,
-      "value": "400"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/Constantes.swift",
-      "kind": "IntegerLiteral",
-      "offset": 258,
-      "length": 3,
-      "value": "500"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/Constantes.swift",
-      "kind": "IntegerLiteral",
-      "offset": 286,
-      "length": 3,
-      "value": "401"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/Constantes.swift",
-      "kind": "IntegerLiteral",
-      "offset": 311,
-      "length": 3,
-      "value": "403"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/Constantes.swift",
-      "kind": "IntegerLiteral",
-      "offset": 335,
-      "length": 3,
-      "value": "404"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/Constantes.swift",
-      "kind": "IntegerLiteral",
-      "offset": 133,
-      "length": 4,
-      "value": "8000"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/Constantes.swift",
-      "kind": "IntegerLiteral",
-      "offset": 166,
-      "length": 4,
-      "value": "2000"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/Constantes.swift",
-      "kind": "IntegerLiteral",
-      "offset": 200,
-      "length": 4,
-      "value": "2001"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/Constantes.swift",
-      "kind": "IntegerLiteral",
-      "offset": 227,
-      "length": 3,
-      "value": "400"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/Constantes.swift",
-      "kind": "IntegerLiteral",
-      "offset": 258,
-      "length": 3,
-      "value": "500"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/Constantes.swift",
-      "kind": "IntegerLiteral",
-      "offset": 286,
-      "length": 3,
-      "value": "401"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/Constantes.swift",
-      "kind": "IntegerLiteral",
-      "offset": 311,
-      "length": 3,
-      "value": "403"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/Constantes.swift",
-      "kind": "IntegerLiteral",
-      "offset": 335,
-      "length": 3,
-      "value": "404"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/Constantes.swift",
@@ -94253,9 +96774,233 @@
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
       "kind": "StringLiteral",
-      "offset": 43829,
-      "length": 11,
-      "value": "\"zy_banbif_bio_lib_ios.DataRequest\""
+      "offset": 39657,
+      "length": 37,
+      "value": "\"$ curl command could not be created\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "Array",
+      "offset": 39723,
+      "length": 13,
+      "value": "[\"$ curl -v\"]"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 39764,
+      "length": 14,
+      "value": "\"-X \""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 39777,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "IntegerLiteral",
+      "offset": 40006,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 40550,
+      "length": 24,
+      "value": "\"-u \""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 40561,
+      "length": 1,
+      "value": "\":\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 40573,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 40766,
+      "length": 24,
+      "value": "\"-u \""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 40777,
+      "length": 1,
+      "value": "\":\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 40789,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 41148,
+      "length": 24,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 41159,
+      "length": 1,
+      "value": "\"=\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 41171,
+      "length": 23,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 41193,
+      "length": 3,
+      "value": "\";\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 41233,
+      "length": 22,
+      "value": "\"-b \"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 41252,
+      "length": 1,
+      "value": "\"\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 41454,
+      "length": 8,
+      "value": "\"Cookie\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 41601,
+      "length": 8,
+      "value": "\"Cookie\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 41772,
+      "length": 4,
+      "value": "\"\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 41784,
+      "length": 6,
+      "value": "\"\\\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 41822,
+      "length": 40,
+      "value": "\"-H \"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 41842,
+      "length": 1,
+      "value": "\": \""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 41859,
+      "length": 1,
+      "value": "\"\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 42061,
+      "length": 6,
+      "value": "\"\\\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 42075,
+      "length": 8,
+      "value": "\"\\\\\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 42148,
+      "length": 4,
+      "value": "\"\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 42160,
+      "length": 6,
+      "value": "\"\\\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 42199,
+      "length": 23,
+      "value": "\"-d \"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 42219,
+      "length": 1,
+      "value": "\"\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 42261,
+      "length": 27,
+      "value": "\"\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 42285,
+      "length": 1,
+      "value": "\"\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
+      "kind": "StringLiteral",
+      "offset": 42335,
+      "length": 9,
+      "value": "\" \\\n\t\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
@@ -94284,13 +97029,6 @@
       "offset": 56510,
       "length": 4,
       "value": "1024"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
-      "kind": "StringLiteral",
-      "offset": 48221,
-      "length": 17,
-      "value": "\"zy_banbif_bio_lib_ios.DataStreamRequest\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
@@ -94347,20 +97085,6 @@
       "offset": 63191,
       "length": 1,
       "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
-      "kind": "StringLiteral",
-      "offset": 59713,
-      "length": 15,
-      "value": "\"zy_banbif_bio_lib_ios.DownloadRequest\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/Request.swift",
-      "kind": "StringLiteral",
-      "offset": 73640,
-      "length": 13,
-      "value": "\"zy_banbif_bio_lib_ios.UploadRequest\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/RequestInterceptor.swift",
@@ -94473,13 +97197,6 @@
       "offset": 3277,
       "length": 744,
       "value": "[408, 500, 502, 503, 504]"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/RetryPolicy.swift",
-      "kind": "StringLiteral",
-      "offset": 21294,
-      "length": 25,
-      "value": "\"zy_banbif_bio_lib_ios.ConnectionLostRetryPolicy\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/ServerTrustEvaluation.swift",
@@ -94678,13 +97395,6 @@
       "value": "true"
     },
     {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-src\/SessionDelegate.swift",
-      "kind": "StringLiteral",
-      "offset": 1345,
-      "length": 15,
-      "value": "\"zy_banbif_bio_lib_ios.SessionDelegate\""
-    },
-    {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
       "kind": "Array",
       "offset": 262,
@@ -94704,699 +97414,6 @@
       "offset": 349,
       "length": 41,
       "value": "[\"pdp_ip0\", \"pdp_ip1\", \"pdp_ip2\", \"pdp_ip3\"]"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10024,
-      "length": 19,
-      "value": "\"simulator\/sandbox\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10101,
-      "length": 8,
-      "value": "\"iPod 1\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10141,
-      "length": 8,
-      "value": "\"iPod 2\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10181,
-      "length": 8,
-      "value": "\"iPod 3\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10221,
-      "length": 8,
-      "value": "\"iPod 4\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10261,
-      "length": 8,
-      "value": "\"iPod 5\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10301,
-      "length": 8,
-      "value": "\"iPod 6\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10341,
-      "length": 8,
-      "value": "\"iPod 7\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10407,
-      "length": 8,
-      "value": "\"iPad 2\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10447,
-      "length": 8,
-      "value": "\"iPad 3\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10487,
-      "length": 8,
-      "value": "\"iPad 4\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10527,
-      "length": 11,
-      "value": "\"iPad Air \""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10570,
-      "length": 12,
-      "value": "\"iPad Air 2\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10614,
-      "length": 12,
-      "value": "\"iPad Air 3\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10658,
-      "length": 12,
-      "value": "\"iPad Air 4\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10702,
-      "length": 12,
-      "value": "\"iPad Air 5\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10746,
-      "length": 8,
-      "value": "\"iPad 5\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10798,
-      "length": 8,
-      "value": "\"iPad 6\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10850,
-      "length": 8,
-      "value": "\"iPad 7\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10902,
-      "length": 8,
-      "value": "\"iPad 8\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 10954,
-      "length": 8,
-      "value": "\"iPad 9\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 11037,
-      "length": 11,
-      "value": "\"iPad Mini\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 11080,
-      "length": 13,
-      "value": "\"iPad Mini 2\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 11125,
-      "length": 13,
-      "value": "\"iPad Mini 3\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 11170,
-      "length": 13,
-      "value": "\"iPad Mini 4\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 11215,
-      "length": 13,
-      "value": "\"iPad Mini 5\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 11260,
-      "length": 13,
-      "value": "\"iPad Mini 6\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 11335,
-      "length": 16,
-      "value": "\"iPad Pro 9.7\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 11383,
-      "length": 17,
-      "value": "\"iPad Pro 10.5\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 11432,
-      "length": 15,
-      "value": "\"iPad Pro 11\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 11479,
-      "length": 23,
-      "value": "\"iPad Pro 11\" 2nd gen\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 11534,
-      "length": 23,
-      "value": "\"iPad Pro 11\" 3rd gen\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 11589,
-      "length": 17,
-      "value": "\"iPad Pro 12.9\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 11638,
-      "length": 19,
-      "value": "\"iPad Pro 2 12.9\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 11689,
-      "length": 19,
-      "value": "\"iPad Pro 3 12.9\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 11740,
-      "length": 19,
-      "value": "\"iPad Pro 4 12.9\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 11791,
-      "length": 19,
-      "value": "\"iPad Pro 5 12.9\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 11870,
-      "length": 10,
-      "value": "\"iPhone 4\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 11912,
-      "length": 11,
-      "value": "\"iPhone 4S\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 11955,
-      "length": 10,
-      "value": "\"iPhone 5\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 11997,
-      "length": 11,
-      "value": "\"iPhone 5S\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12040,
-      "length": 11,
-      "value": "\"iPhone 5C\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12083,
-      "length": 10,
-      "value": "\"iPhone 6\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12125,
-      "length": 15,
-      "value": "\"iPhone 6 Plus\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12172,
-      "length": 11,
-      "value": "\"iPhone 6S\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12215,
-      "length": 16,
-      "value": "\"iPhone 6S Plus\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12263,
-      "length": 11,
-      "value": "\"iPhone SE\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12306,
-      "length": 10,
-      "value": "\"iPhone 7\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12348,
-      "length": 15,
-      "value": "\"iPhone 7 Plus\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12395,
-      "length": 10,
-      "value": "\"iPhone 8\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12437,
-      "length": 15,
-      "value": "\"iPhone 8 Plus\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12484,
-      "length": 10,
-      "value": "\"iPhone X\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12526,
-      "length": 11,
-      "value": "\"iPhone XS\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12569,
-      "length": 15,
-      "value": "\"iPhone XS Max\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12616,
-      "length": 11,
-      "value": "\"iPhone XR\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12659,
-      "length": 11,
-      "value": "\"iPhone 11\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12702,
-      "length": 15,
-      "value": "\"iPhone 11 Pro\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12749,
-      "length": 19,
-      "value": "\"iPhone 11 Pro Max\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12800,
-      "length": 19,
-      "value": "\"iPhone SE 2nd gen\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12851,
-      "length": 16,
-      "value": "\"iPhone 12 Mini\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12899,
-      "length": 11,
-      "value": "\"iPhone 12\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12942,
-      "length": 15,
-      "value": "\"iPhone 12 Pro\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 12989,
-      "length": 19,
-      "value": "\"iPhone 12 Pro Max\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 13040,
-      "length": 16,
-      "value": "\"iPhone 13 Mini\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 13088,
-      "length": 11,
-      "value": "\"iPhone 13\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 13131,
-      "length": 15,
-      "value": "\"iPhone 13 Pro\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 13178,
-      "length": 19,
-      "value": "\"iPhone 13 Pro Max\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 13229,
-      "length": 19,
-      "value": "\"iPhone SE 3nd gen\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 13280,
-      "length": 11,
-      "value": "\"iPhone 14\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 13323,
-      "length": 16,
-      "value": "\"iPhone 14 Plus\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 13371,
-      "length": 15,
-      "value": "\"iPhone 14 Pro\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 13418,
-      "length": 19,
-      "value": "\"iPhone 14 Pro Max\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 13469,
-      "length": 19,
-      "value": "\"iPhone SE 4nd gen\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 13555,
-      "length": 18,
-      "value": "\"Apple Watch 1gen\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 13606,
-      "length": 22,
-      "value": "\"Apple Watch Series 1\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 13661,
-      "length": 22,
-      "value": "\"Apple Watch Series 2\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 13716,
-      "length": 22,
-      "value": "\"Apple Watch Series 3\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 13771,
-      "length": 22,
-      "value": "\"Apple Watch Series 4\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 13826,
-      "length": 22,
-      "value": "\"Apple Watch Series 5\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 13881,
-      "length": 29,
-      "value": "\"Apple Watch Special Edition\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 13943,
-      "length": 22,
-      "value": "\"Apple Watch Series 6\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 13998,
-      "length": 22,
-      "value": "\"Apple Watch Series 7\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 14058,
-      "length": 32,
-      "value": "\"Apple Watch SE 40mm case (GPS)\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 14128,
-      "length": 32,
-      "value": "\"Apple Watch SE 44mm case (GPS)\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 14202,
-      "length": 41,
-      "value": "\"Apple Watch SE 40mm case (GPS+Cellular)\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 14285,
-      "length": 42,
-      "value": "\"Apple Watch SE 440mm case (GPS+Cellular)\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 14365,
-      "length": 32,
-      "value": "\"Apple Watch S8 40mm case (GPS)\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 14435,
-      "length": 32,
-      "value": "\"Apple Watch S8 44mm case (GPS)\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 14509,
-      "length": 41,
-      "value": "\"Apple Watch S8 40mm case (GPS+Cellular)\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 14592,
-      "length": 42,
-      "value": "\"Apple Watch S8 440mm case (GPS+Cellular)\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 14680,
-      "length": 19,
-      "value": "\"Apple Watch Ultra\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 14771,
-      "length": 10,
-      "value": "\"Apple TV\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 14813,
-      "length": 15,
-      "value": "\"Apple TV 1gen\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 14860,
-      "length": 15,
-      "value": "\"Apple TV 2gen\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 14907,
-      "length": 15,
-      "value": "\"Apple TV 3gen\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 14954,
-      "length": 15,
-      "value": "\"Apple TV 4gen\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 15001,
-      "length": 13,
-      "value": "\"Apple TV 4K\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 15046,
-      "length": 18,
-      "value": "\"Apple TV 4K 2gen\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
-      "kind": "StringLiteral",
-      "offset": 15126,
-      "length": 16,
-      "value": "\"?unrecognized?\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/util\/UIDevice.swift",
@@ -96241,324 +98258,9 @@
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-api\/ZyAlamofireApi.swift",
       "kind": "StringLiteral",
-      "offset": 563,
-      "length": 15,
-      "value": "\"Authorization\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-api\/ZyAlamofireApi.swift",
-      "kind": "StringLiteral",
-      "offset": 605,
-      "length": 14,
-      "value": "\"Content-Type\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-api\/ZyAlamofireApi.swift",
-      "kind": "StringLiteral",
-      "offset": 646,
-      "length": 8,
-      "value": "\"Accept\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-api\/ZyAlamofireApi.swift",
-      "kind": "StringLiteral",
-      "offset": 681,
-      "length": 17,
-      "value": "\"Accept-Encoding\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-api\/ZyAlamofireApi.swift",
-      "kind": "StringLiteral",
-      "offset": 725,
-      "length": 13,
-      "value": "\"RequestName\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-api\/ZyAlamofireApi.swift",
-      "kind": "StringLiteral",
       "offset": 784,
       "length": 18,
       "value": "\"application\/json\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/Alamofire-api\/ZyAlamofireApi.swift",
-      "kind": "StringLiteral",
-      "offset": 784,
-      "length": 18,
-      "value": "\"application\/json\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyApiCross.swift",
-      "kind": "StringLiteral",
-      "offset": 145,
-      "length": 10,
-      "value": "\"zy_banbif_bio_lib_ios.ZyApiCross\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 154,
-      "length": 4,
-      "value": "8000"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 174,
-      "length": 5,
-      "value": "70006"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 228,
-      "length": 4,
-      "value": "8065"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 264,
-      "length": 4,
-      "value": "9156"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 307,
-      "length": 4,
-      "value": "9157"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 344,
-      "length": 4,
-      "value": "9158"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 389,
-      "length": 4,
-      "value": "9159"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 436,
-      "length": 4,
-      "value": "9160"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 477,
-      "length": 4,
-      "value": "9161"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 525,
-      "length": 4,
-      "value": "9162"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 573,
-      "length": 4,
-      "value": "9165"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 620,
-      "length": 5,
-      "value": "22002"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 660,
-      "length": 5,
-      "value": "22003"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 701,
-      "length": 5,
-      "value": "22004"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 737,
-      "length": 5,
-      "value": "22005"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 780,
-      "length": 5,
-      "value": "22006"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 825,
-      "length": 5,
-      "value": "22007"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 864,
-      "length": 4,
-      "value": "9164"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 913,
-      "length": 4,
-      "value": "9166"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 154,
-      "length": 4,
-      "value": "8000"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 174,
-      "length": 5,
-      "value": "70006"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 228,
-      "length": 4,
-      "value": "8065"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 264,
-      "length": 4,
-      "value": "9156"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 307,
-      "length": 4,
-      "value": "9157"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 344,
-      "length": 4,
-      "value": "9158"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 389,
-      "length": 4,
-      "value": "9159"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 436,
-      "length": 4,
-      "value": "9160"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 477,
-      "length": 4,
-      "value": "9161"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 525,
-      "length": 4,
-      "value": "9162"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 573,
-      "length": 4,
-      "value": "9165"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 620,
-      "length": 5,
-      "value": "22002"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 660,
-      "length": 5,
-      "value": "22003"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 701,
-      "length": 5,
-      "value": "22004"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 737,
-      "length": 5,
-      "value": "22005"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 780,
-      "length": 5,
-      "value": "22006"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 825,
-      "length": 5,
-      "value": "22007"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 864,
-      "length": 4,
-      "value": "9164"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
-      "kind": "IntegerLiteral",
-      "offset": 913,
-      "length": 4,
-      "value": "9166"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyErrorEnum.swift",
@@ -96699,20 +98401,6 @@
       "offset": 486,
       "length": 3,
       "value": "0.3"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 671,
-      "length": 15,
-      "value": "\"BfResponseDto\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 709,
-      "length": 8,
-      "value": "\"OcrDto\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
@@ -96990,20 +98678,6 @@
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 2767,
-      "length": 15,
-      "value": "\"BfResponseDto\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2808,
-      "length": 8,
-      "value": "\"OcrDto\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "StringLiteral",
       "offset": 2902,
       "length": 2,
       "value": "\"\""
@@ -97130,20 +98804,6 @@
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 4132,
-      "length": 19,
-      "value": "\"FacialImageSearch\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4185,
-      "length": 15,
-      "value": "\"AddressReniec\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "StringLiteral",
       "offset": 4290,
       "length": 2,
       "value": "\"\""
@@ -97238,48 +98898,6 @@
       "offset": 5178,
       "length": 2,
       "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5559,
-      "length": 17,
-      "value": "\"RsValidacionDoc\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5601,
-      "length": 7,
-      "value": "\"RsOcr\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5642,
-      "length": 16,
-      "value": "\"RsOcrResultado\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5694,
-      "length": 18,
-      "value": "\"RsEvaluacionEdad\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5743,
-      "length": 13,
-      "value": "\"RsOcrSelfie\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 5793,
-      "length": 19,
-      "value": "\"RsValidacionDatos\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
@@ -97564,48 +99182,6 @@
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 9402,
-      "length": 3,
-      "value": "103"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9422,
-      "length": 3,
-      "value": "102"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9452,
-      "length": 2,
-      "value": "19"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9402,
-      "length": 3,
-      "value": "103"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9422,
-      "length": 3,
-      "value": "102"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9452,
-      "length": 2,
-      "value": "19"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "IntegerLiteral",
       "offset": 9507,
       "length": 4,
       "value": "8000"
@@ -97644,97 +99220,6 @@
       "offset": 9679,
       "length": 4,
       "value": "8087"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9507,
-      "length": 4,
-      "value": "8000"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9542,
-      "length": 4,
-      "value": "8383"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9572,
-      "length": 4,
-      "value": "9116"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9601,
-      "length": 5,
-      "value": "70007"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9644,
-      "length": 4,
-      "value": "8270"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9679,
-      "length": 4,
-      "value": "8087"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9507,
-      "length": 4,
-      "value": "8000"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9542,
-      "length": 4,
-      "value": "8383"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9572,
-      "length": 4,
-      "value": "9116"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9601,
-      "length": 5,
-      "value": "70007"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9644,
-      "length": 4,
-      "value": "8270"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9679,
-      "length": 4,
-      "value": "8087"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyReactComp.swift",
-      "kind": "StringLiteral",
-      "offset": 152,
-      "length": 11,
-      "value": "\"zy_banbif_bio_lib_ios.ZyReactComp\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyReactComp.swift",
@@ -98113,146 +99598,6 @@
       "offset": 3458,
       "length": 3,
       "value": "404"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3256,
-      "length": 4,
-      "value": "8000"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3289,
-      "length": 4,
-      "value": "2000"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3323,
-      "length": 4,
-      "value": "2001"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3350,
-      "length": 3,
-      "value": "400"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3381,
-      "length": 3,
-      "value": "500"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3409,
-      "length": 3,
-      "value": "401"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3434,
-      "length": 3,
-      "value": "403"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3458,
-      "length": 3,
-      "value": "404"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3256,
-      "length": 4,
-      "value": "8000"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3289,
-      "length": 4,
-      "value": "2000"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3323,
-      "length": 4,
-      "value": "2001"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3350,
-      "length": 3,
-      "value": "400"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3381,
-      "length": 3,
-      "value": "500"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3409,
-      "length": 3,
-      "value": "401"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3434,
-      "length": 3,
-      "value": "403"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3458,
-      "length": 3,
-      "value": "404"
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4171,
-      "length": 5,
-      "value": "\"POC\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4193,
-      "length": 6,
-      "value": "\"DEV2\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4216,
-      "length": 6,
-      "value": "\"SIGN\""
-    },
-    {
-      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",
-      "kind": "StringLiteral",
-      "offset": 4239,
-      "length": 6,
-      "value": "\"DEVX\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api_rest\/ZyTModel.swift",

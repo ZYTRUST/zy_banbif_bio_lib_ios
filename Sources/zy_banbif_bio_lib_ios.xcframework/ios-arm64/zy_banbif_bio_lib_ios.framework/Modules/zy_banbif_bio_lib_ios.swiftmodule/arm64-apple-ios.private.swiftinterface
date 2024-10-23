@@ -2201,18 +2201,20 @@ public struct ZyCrossRequest {
   public var stepper: zy_banbif_bio_lib_ios.Stepper
   public var errores: [zy_banbif_bio_lib_ios.VisualScreenError]
 }
-public struct Stepper {
-  public var nuPasos: Swift.Int
-  public var pasoActual: Swift.Int
-  public init(nuPasos: Swift.Int, pasoActual: Swift.Int)
+@objc @objcMembers public class Stepper : ObjectiveC.NSObject {
+  @objc public var nuPasos: Swift.Int
+  @objc public var pasoActual: Swift.Int
+  @objc public init(nuPasos: Swift.Int, pasoActual: Swift.Int)
+  @objc deinit
 }
-public struct VisualScreenError {
-  public var titulo: Swift.String
-  public var decripcion: Swift.String
-  public var textBoton: Swift.String
+@objc @_inheritsConvenienceInitializers @objcMembers public class VisualScreenError : ObjectiveC.NSObject {
+  @objc public var titulo: Swift.String
+  @objc public var decripcion: Swift.String
+  @objc public var textBoton: Swift.String
   public var screenEnum: zy_banbif_bio_lib_ios.ScreenEnum
   public init(titulo: Swift.String, decripcion: Swift.String, textBoton: Swift.String, screenEnum: zy_banbif_bio_lib_ios.ScreenEnum)
-  public init()
+  @objc override dynamic public init()
+  @objc deinit
 }
 public enum ScreenEnum {
   case REINTENTAR
@@ -2580,8 +2582,8 @@ public struct ZyLibErrorButton {
   @objc public var bmoApMaterno: Swift.String
   @objc public var isDialogActivated: Swift.Bool
   @objc public var url: Swift.String
-  public var stepper: zy_banbif_bio_lib_ios.Stepper
-  public var errores: [zy_banbif_bio_lib_ios.VisualScreenError]
+  @objc public var stepper: zy_banbif_bio_lib_ios.Stepper
+  @objc public var errores: [zy_banbif_bio_lib_ios.VisualScreenError]
   @objc override dynamic public init()
   @objc deinit
 }

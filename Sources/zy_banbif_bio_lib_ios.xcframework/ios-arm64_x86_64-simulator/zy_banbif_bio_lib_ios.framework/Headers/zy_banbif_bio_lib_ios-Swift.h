@@ -311,6 +311,8 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 
 @class NSString;
+@class Stepper;
+@class VisualScreenError;
 
 SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios12ReactRequest")
 @interface ReactRequest : NSObject
@@ -326,6 +328,8 @@ SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios12ReactRequest")
 @property (nonatomic, copy) NSString * _Nonnull bmoApMaterno;
 @property (nonatomic) BOOL isDialogActivated;
 @property (nonatomic, copy) NSString * _Nonnull url;
+@property (nonatomic, strong) Stepper * _Nonnull stepper;
+@property (nonatomic, copy) NSArray<VisualScreenError *> * _Nonnull errores;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -391,11 +395,30 @@ SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios15SessionDelegate")
 @end
 
 
+SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios7Stepper")
+@interface Stepper : NSObject
+@property (nonatomic) NSInteger nuPasos;
+@property (nonatomic) NSInteger pasoActual;
+- (nonnull instancetype)initWithNuPasos:(NSInteger)nuPasos pasoActual:(NSInteger)pasoActual OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
 
 
 
 
 
+
+
+
+
+SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios17VisualScreenError")
+@interface VisualScreenError : NSObject
+@property (nonatomic, copy) NSString * _Nonnull titulo;
+@property (nonatomic, copy) NSString * _Nonnull decripcion;
+@property (nonatomic, copy) NSString * _Nonnull textBoton;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
 
 @class UIViewController;
 
@@ -736,6 +759,8 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 
 @class NSString;
+@class Stepper;
+@class VisualScreenError;
 
 SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios12ReactRequest")
 @interface ReactRequest : NSObject
@@ -751,6 +776,8 @@ SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios12ReactRequest")
 @property (nonatomic, copy) NSString * _Nonnull bmoApMaterno;
 @property (nonatomic) BOOL isDialogActivated;
 @property (nonatomic, copy) NSString * _Nonnull url;
+@property (nonatomic, strong) Stepper * _Nonnull stepper;
+@property (nonatomic, copy) NSArray<VisualScreenError *> * _Nonnull errores;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -816,11 +843,30 @@ SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios15SessionDelegate")
 @end
 
 
+SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios7Stepper")
+@interface Stepper : NSObject
+@property (nonatomic) NSInteger nuPasos;
+@property (nonatomic) NSInteger pasoActual;
+- (nonnull instancetype)initWithNuPasos:(NSInteger)nuPasos pasoActual:(NSInteger)pasoActual OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
 
 
 
 
 
+
+
+
+
+SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios17VisualScreenError")
+@interface VisualScreenError : NSObject
+@property (nonatomic, copy) NSString * _Nonnull titulo;
+@property (nonatomic, copy) NSString * _Nonnull decripcion;
+@property (nonatomic, copy) NSString * _Nonnull textBoton;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
 
 @class UIViewController;
 

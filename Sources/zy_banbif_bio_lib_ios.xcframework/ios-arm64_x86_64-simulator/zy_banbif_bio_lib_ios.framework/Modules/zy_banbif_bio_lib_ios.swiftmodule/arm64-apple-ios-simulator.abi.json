@@ -74677,12 +74677,12 @@
             "mangledName": "$s21zy_banbif_bio_lib_ios7StepperCACycfc",
             "moduleName": "zy_banbif_bio_lib_ios",
             "overriding": true,
-            "implicit": true,
             "objc_name": "init",
             "declAttributes": [
               "Dynamic",
               "ObjC",
-              "Override"
+              "Override",
+              "AccessControl"
             ],
             "init_kind": "Designated"
           }
@@ -74697,6 +74697,7 @@
           "ObjC"
         ],
         "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
         "superclassNames": [
           "ObjectiveC.NSObject"
         ],
@@ -74865,8 +74866,8 @@
           },
           {
             "kind": "Var",
-            "name": "decripcion",
-            "printedName": "decripcion",
+            "name": "descripcion",
+            "printedName": "descripcion",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -74876,8 +74877,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "c:@M@zy_banbif_bio_lib_ios@objc(cs)VisualScreenError(py)decripcion",
-            "mangledName": "$s21zy_banbif_bio_lib_ios17VisualScreenErrorC10decripcionSSvp",
+            "usr": "c:@M@zy_banbif_bio_lib_ios@objc(cs)VisualScreenError(py)descripcion",
+            "mangledName": "$s21zy_banbif_bio_lib_ios17VisualScreenErrorC11descripcionSSvp",
             "moduleName": "zy_banbif_bio_lib_ios",
             "declAttributes": [
               "HasStorage",
@@ -74899,8 +74900,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@zy_banbif_bio_lib_ios@objc(cs)VisualScreenError(im)decripcion",
-                "mangledName": "$s21zy_banbif_bio_lib_ios17VisualScreenErrorC10decripcionSSvg",
+                "usr": "c:@M@zy_banbif_bio_lib_ios@objc(cs)VisualScreenError(im)descripcion",
+                "mangledName": "$s21zy_banbif_bio_lib_ios17VisualScreenErrorC11descripcionSSvg",
                 "moduleName": "zy_banbif_bio_lib_ios",
                 "implicit": true,
                 "declAttributes": [
@@ -74926,8 +74927,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "c:@M@zy_banbif_bio_lib_ios@objc(cs)VisualScreenError(im)setDecripcion:",
-                "mangledName": "$s21zy_banbif_bio_lib_ios17VisualScreenErrorC10decripcionSSvs",
+                "usr": "c:@M@zy_banbif_bio_lib_ios@objc(cs)VisualScreenError(im)setDescripcion:",
+                "mangledName": "$s21zy_banbif_bio_lib_ios17VisualScreenErrorC11descripcionSSvs",
                 "moduleName": "zy_banbif_bio_lib_ios",
                 "implicit": true,
                 "declAttributes": [
@@ -74947,8 +74948,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:21zy_banbif_bio_lib_ios17VisualScreenErrorC10decripcionSSvM",
-                "mangledName": "$s21zy_banbif_bio_lib_ios17VisualScreenErrorC10decripcionSSvM",
+                "usr": "s:21zy_banbif_bio_lib_ios17VisualScreenErrorC11descripcionSSvM",
+                "mangledName": "$s21zy_banbif_bio_lib_ios17VisualScreenErrorC11descripcionSSvM",
                 "moduleName": "zy_banbif_bio_lib_ios",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -75056,16 +75057,17 @@
                 "kind": "TypeNominal",
                 "name": "ScreenEnum",
                 "printedName": "zy_banbif_bio_lib_ios.ScreenEnum",
-                "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO"
+                "usr": "c:@M@zy_banbif_bio_lib_ios@E@ScreenEnum"
               }
             ],
             "declKind": "Var",
-            "usr": "s:21zy_banbif_bio_lib_ios17VisualScreenErrorC10screenEnumAA0gJ0Ovp",
+            "usr": "c:@M@zy_banbif_bio_lib_ios@objc(cs)VisualScreenError(py)screenEnum",
             "mangledName": "$s21zy_banbif_bio_lib_ios17VisualScreenErrorC10screenEnumAA0gJ0Ovp",
             "moduleName": "zy_banbif_bio_lib_ios",
             "declAttributes": [
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "hasStorage": true,
             "accessors": [
@@ -75078,14 +75080,17 @@
                     "kind": "TypeNominal",
                     "name": "ScreenEnum",
                     "printedName": "zy_banbif_bio_lib_ios.ScreenEnum",
-                    "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO"
+                    "usr": "c:@M@zy_banbif_bio_lib_ios@E@ScreenEnum"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:21zy_banbif_bio_lib_ios17VisualScreenErrorC10screenEnumAA0gJ0Ovg",
+                "usr": "c:@M@zy_banbif_bio_lib_ios@objc(cs)VisualScreenError(im)screenEnum",
                 "mangledName": "$s21zy_banbif_bio_lib_ios17VisualScreenErrorC10screenEnumAA0gJ0Ovg",
                 "moduleName": "zy_banbif_bio_lib_ios",
                 "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
                 "accessorKind": "get"
               },
               {
@@ -75102,14 +75107,17 @@
                     "kind": "TypeNominal",
                     "name": "ScreenEnum",
                     "printedName": "zy_banbif_bio_lib_ios.ScreenEnum",
-                    "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO"
+                    "usr": "c:@M@zy_banbif_bio_lib_ios@E@ScreenEnum"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:21zy_banbif_bio_lib_ios17VisualScreenErrorC10screenEnumAA0gJ0Ovs",
+                "usr": "c:@M@zy_banbif_bio_lib_ios@objc(cs)VisualScreenError(im)setScreenEnum:",
                 "mangledName": "$s21zy_banbif_bio_lib_ios17VisualScreenErrorC10screenEnumAA0gJ0Ovs",
                 "moduleName": "zy_banbif_bio_lib_ios",
                 "implicit": true,
+                "declAttributes": [
+                  "ObjC"
+                ],
                 "accessorKind": "set"
               },
               {
@@ -75135,7 +75143,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(titulo:decripcion:textBoton:screenEnum:)",
+            "printedName": "init(titulo:descripcion:textBoton:screenEnum:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -75165,15 +75173,16 @@
                 "kind": "TypeNominal",
                 "name": "ScreenEnum",
                 "printedName": "zy_banbif_bio_lib_ios.ScreenEnum",
-                "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO"
+                "usr": "c:@M@zy_banbif_bio_lib_ios@E@ScreenEnum"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:21zy_banbif_bio_lib_ios17VisualScreenErrorC6titulo10decripcion9textBoton10screenEnumACSS_S2SAA0gN0Otcfc",
-            "mangledName": "$s21zy_banbif_bio_lib_ios17VisualScreenErrorC6titulo10decripcion9textBoton10screenEnumACSS_S2SAA0gN0Otcfc",
+            "usr": "c:@M@zy_banbif_bio_lib_ios@objc(cs)VisualScreenError(im)initWithTitulo:descripcion:textBoton:screenEnum:",
+            "mangledName": "$s21zy_banbif_bio_lib_ios17VisualScreenErrorC6titulo11descripcion9textBoton10screenEnumACSS_S2SAA0gN0Otcfc",
             "moduleName": "zy_banbif_bio_lib_ios",
             "declAttributes": [
-              "AccessControl"
+              "AccessControl",
+              "ObjC"
             ],
             "init_kind": "Designated"
           },
@@ -75303,7 +75312,7 @@
                     "kind": "TypeNominal",
                     "name": "ScreenEnum",
                     "printedName": "zy_banbif_bio_lib_ios.ScreenEnum",
-                    "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO"
+                    "usr": "c:@M@zy_banbif_bio_lib_ios@E@ScreenEnum"
                   },
                   {
                     "kind": "TypeNominal",
@@ -75314,7 +75323,7 @@
                         "kind": "TypeNominal",
                         "name": "ScreenEnum",
                         "printedName": "zy_banbif_bio_lib_ios.ScreenEnum",
-                        "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO"
+                        "usr": "c:@M@zy_banbif_bio_lib_ios@E@ScreenEnum"
                       }
                     ]
                   }
@@ -75322,9 +75331,13 @@
               }
             ],
             "declKind": "EnumElement",
-            "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO10REINTENTARyA2CmF",
+            "usr": "c:@M@zy_banbif_bio_lib_ios@E@ScreenEnum@ScreenEnumREINTENTAR",
             "mangledName": "$s21zy_banbif_bio_lib_ios10ScreenEnumO10REINTENTARyA2CmF",
-            "moduleName": "zy_banbif_bio_lib_ios"
+            "moduleName": "zy_banbif_bio_lib_ios",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 0
           },
           {
             "kind": "Var",
@@ -75340,7 +75353,7 @@
                     "kind": "TypeNominal",
                     "name": "ScreenEnum",
                     "printedName": "zy_banbif_bio_lib_ios.ScreenEnum",
-                    "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO"
+                    "usr": "c:@M@zy_banbif_bio_lib_ios@E@ScreenEnum"
                   },
                   {
                     "kind": "TypeNominal",
@@ -75351,7 +75364,7 @@
                         "kind": "TypeNominal",
                         "name": "ScreenEnum",
                         "printedName": "zy_banbif_bio_lib_ios.ScreenEnum",
-                        "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO"
+                        "usr": "c:@M@zy_banbif_bio_lib_ios@E@ScreenEnum"
                       }
                     ]
                   }
@@ -75359,9 +75372,13 @@
               }
             ],
             "declKind": "EnumElement",
-            "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO23LIMITE_TIEMPO_ALZANZADOyA2CmF",
+            "usr": "c:@M@zy_banbif_bio_lib_ios@E@ScreenEnum@ScreenEnumLIMITE_TIEMPO_ALZANZADO",
             "mangledName": "$s21zy_banbif_bio_lib_ios10ScreenEnumO23LIMITE_TIEMPO_ALZANZADOyA2CmF",
-            "moduleName": "zy_banbif_bio_lib_ios"
+            "moduleName": "zy_banbif_bio_lib_ios",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 1
           },
           {
             "kind": "Var",
@@ -75377,7 +75394,7 @@
                     "kind": "TypeNominal",
                     "name": "ScreenEnum",
                     "printedName": "zy_banbif_bio_lib_ios.ScreenEnum",
-                    "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO"
+                    "usr": "c:@M@zy_banbif_bio_lib_ios@E@ScreenEnum"
                   },
                   {
                     "kind": "TypeNominal",
@@ -75388,7 +75405,7 @@
                         "kind": "TypeNominal",
                         "name": "ScreenEnum",
                         "printedName": "zy_banbif_bio_lib_ios.ScreenEnum",
-                        "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO"
+                        "usr": "c:@M@zy_banbif_bio_lib_ios@E@ScreenEnum"
                       }
                     ]
                   }
@@ -75396,9 +75413,13 @@
               }
             ],
             "declKind": "EnumElement",
-            "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO25LIMITE_INTENTOS_ALCANZADOyA2CmF",
+            "usr": "c:@M@zy_banbif_bio_lib_ios@E@ScreenEnum@ScreenEnumLIMITE_INTENTOS_ALCANZADO",
             "mangledName": "$s21zy_banbif_bio_lib_ios10ScreenEnumO25LIMITE_INTENTOS_ALCANZADOyA2CmF",
-            "moduleName": "zy_banbif_bio_lib_ios"
+            "moduleName": "zy_banbif_bio_lib_ios",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 2
           },
           {
             "kind": "Var",
@@ -75414,7 +75435,7 @@
                     "kind": "TypeNominal",
                     "name": "ScreenEnum",
                     "printedName": "zy_banbif_bio_lib_ios.ScreenEnum",
-                    "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO"
+                    "usr": "c:@M@zy_banbif_bio_lib_ios@E@ScreenEnum"
                   },
                   {
                     "kind": "TypeNominal",
@@ -75425,7 +75446,7 @@
                         "kind": "TypeNominal",
                         "name": "ScreenEnum",
                         "printedName": "zy_banbif_bio_lib_ios.ScreenEnum",
-                        "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO"
+                        "usr": "c:@M@zy_banbif_bio_lib_ios@E@ScreenEnum"
                       }
                     ]
                   }
@@ -75433,46 +75454,51 @@
               }
             ],
             "declKind": "EnumElement",
-            "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO7DEFAULTyA2CmF",
+            "usr": "c:@M@zy_banbif_bio_lib_ios@E@ScreenEnum@ScreenEnumDEFAULT",
             "mangledName": "$s21zy_banbif_bio_lib_ios10ScreenEnumO7DEFAULTyA2CmF",
-            "moduleName": "zy_banbif_bio_lib_ios"
+            "moduleName": "zy_banbif_bio_lib_ios",
+            "declAttributes": [
+              "ObjC"
+            ],
+            "fixedbinaryorder": 3
           },
           {
-            "kind": "Function",
-            "name": "==",
-            "printedName": "==(_:_:)",
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
+                "name": "Optional",
+                "printedName": "zy_banbif_bio_lib_ios.ScreenEnum?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ScreenEnum",
+                    "printedName": "zy_banbif_bio_lib_ios.ScreenEnum",
+                    "usr": "c:@M@zy_banbif_bio_lib_ios@E@ScreenEnum"
+                  }
+                ],
+                "usr": "s:Sq"
               },
               {
                 "kind": "TypeNominal",
-                "name": "ScreenEnum",
-                "printedName": "zy_banbif_bio_lib_ios.ScreenEnum",
-                "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "ScreenEnum",
-                "printedName": "zy_banbif_bio_lib_ios.ScreenEnum",
-                "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO"
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
               }
             ],
-            "declKind": "Func",
-            "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO2eeoiySbAC_ACtFZ",
-            "mangledName": "$s21zy_banbif_bio_lib_ios10ScreenEnumO2eeoiySbAC_ACtFZ",
+            "declKind": "Constructor",
+            "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO8rawValueACSgSi_tcfc",
+            "mangledName": "$s21zy_banbif_bio_lib_ios10ScreenEnumO8rawValueACSgSi_tcfc",
             "moduleName": "zy_banbif_bio_lib_ios",
-            "static": true,
             "implicit": true,
-            "funcSelfKind": "NonMutating"
+            "init_kind": "Designated"
           },
           {
             "kind": "Var",
-            "name": "hashValue",
-            "printedName": "hashValue",
+            "name": "rawValue",
+            "printedName": "rawValue",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -75482,8 +75508,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO9hashValueSivp",
-            "mangledName": "$s21zy_banbif_bio_lib_ios10ScreenEnumO9hashValueSivp",
+            "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO8rawValueSivp",
+            "mangledName": "$s21zy_banbif_bio_lib_ios10ScreenEnumO8rawValueSivp",
             "moduleName": "zy_banbif_bio_lib_ios",
             "implicit": true,
             "accessors": [
@@ -75500,47 +75526,24 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO9hashValueSivg",
-                "mangledName": "$s21zy_banbif_bio_lib_ios10ScreenEnumO9hashValueSivg",
+                "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO8rawValueSivg",
+                "mangledName": "$s21zy_banbif_bio_lib_ios10ScreenEnumO8rawValueSivg",
                 "moduleName": "zy_banbif_bio_lib_ios",
                 "implicit": true,
                 "accessorKind": "get"
               }
             ]
-          },
-          {
-            "kind": "Function",
-            "name": "hash",
-            "printedName": "hash(into:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Hasher",
-                "printedName": "Swift.Hasher",
-                "paramValueOwnership": "InOut",
-                "usr": "s:s6HasherV"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO4hash4intoys6HasherVz_tF",
-            "mangledName": "$s21zy_banbif_bio_lib_ios10ScreenEnumO4hash4intoys6HasherVz_tF",
-            "moduleName": "zy_banbif_bio_lib_ios",
-            "implicit": true,
-            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Enum",
-        "usr": "s:21zy_banbif_bio_lib_ios10ScreenEnumO",
+        "usr": "c:@M@zy_banbif_bio_lib_ios@E@ScreenEnum",
         "mangledName": "$s21zy_banbif_bio_lib_ios10ScreenEnumO",
         "moduleName": "zy_banbif_bio_lib_ios",
         "declAttributes": [
-          "AccessControl"
+          "AccessControl",
+          "ObjC"
         ],
+        "enumRawTypeName": "Int",
         "conformances": [
           {
             "kind": "Conformance",
@@ -75569,6 +75572,28 @@
             "printedName": "Hashable",
             "usr": "s:SH",
             "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
           }
         ]
       },
@@ -100287,24 +100312,24 @@
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 3474,
-      "length": 2,
-      "value": "\"\""
+      "kind": "IntegerLiteral",
+      "offset": 3433,
+      "length": 23,
+      "value": "1"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 3507,
-      "length": 2,
-      "value": "\"\""
+      "kind": "IntegerLiteral",
+      "offset": 3466,
+      "length": 25,
+      "value": "2"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
-      "kind": "StringLiteral",
-      "offset": 3546,
-      "length": 2,
-      "value": "\"\""
+      "kind": "IntegerLiteral",
+      "offset": 3501,
+      "length": 7,
+      "value": "3"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
@@ -100316,595 +100341,616 @@
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 3626,
+      "offset": 3618,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 3666,
+      "offset": 3657,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 3921,
+      "offset": 3696,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3737,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 3777,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
+      "kind": "StringLiteral",
+      "offset": 4032,
       "length": 15,
       "value": "\"BfResponseDto\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 3962,
+      "offset": 4073,
       "length": 8,
       "value": "\"OcrDto\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 4056,
+      "offset": 4167,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 4092,
+      "offset": 4203,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 4209,
+      "offset": 4320,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 4245,
+      "offset": 4356,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 4282,
+      "offset": 4393,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 4318,
+      "offset": 4429,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 4354,
+      "offset": 4465,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 4398,
+      "offset": 4509,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 4435,
+      "offset": 4546,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 4471,
+      "offset": 4582,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 4504,
+      "offset": 4615,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 4543,
+      "offset": 4654,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 4581,
+      "offset": 4692,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 4626,
+      "offset": 4737,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 4673,
+      "offset": 4784,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 4725,
+      "offset": 4836,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 5286,
+      "offset": 5397,
       "length": 19,
       "value": "\"FacialImageSearch\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 5339,
+      "offset": 5450,
       "length": 15,
       "value": "\"AddressReniec\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 5444,
+      "offset": 5555,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 5485,
+      "offset": 5596,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 5524,
+      "offset": 5635,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 5562,
+      "offset": 5673,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 5606,
+      "offset": 5717,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 5644,
+      "offset": 5755,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 5678,
+      "offset": 5789,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 5727,
+      "offset": 5838,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 5996,
+      "offset": 6107,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 6034,
+      "offset": 6145,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 6068,
+      "offset": 6179,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 6101,
+      "offset": 6212,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 6287,
+      "offset": 6398,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 6332,
+      "offset": 6443,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 6713,
+      "offset": 6824,
       "length": 17,
       "value": "\"RsValidacionDoc\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 6755,
+      "offset": 6866,
       "length": 7,
       "value": "\"RsOcr\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 6796,
+      "offset": 6907,
       "length": 16,
       "value": "\"RsOcrResultado\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 6848,
+      "offset": 6959,
       "length": 18,
       "value": "\"RsEvaluacionEdad\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 6897,
+      "offset": 7008,
       "length": 13,
       "value": "\"RsOcrSelfie\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 6947,
+      "offset": 7058,
       "length": 19,
       "value": "\"RsValidacionDatos\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 7065,
+      "offset": 7176,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 7116,
+      "offset": 7227,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 7163,
+      "offset": 7274,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 7371,
+      "offset": 7482,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 7408,
+      "offset": 7519,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 7444,
+      "offset": 7555,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 7484,
+      "offset": 7595,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 7523,
+      "offset": 7634,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 7554,
+      "offset": 7665,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 7585,
+      "offset": 7696,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 7625,
+      "offset": 7736,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 7664,
+      "offset": 7775,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 7901,
+      "offset": 8012,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 7939,
+      "offset": 8050,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 7980,
+      "offset": 8091,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 8023,
+      "offset": 8134,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 8059,
+      "offset": 8170,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 8279,
+      "offset": 8390,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 8326,
+      "offset": 8437,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 8509,
+      "offset": 8620,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 8547,
+      "offset": 8658,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 8588,
+      "offset": 8699,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 8628,
+      "offset": 8739,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 8661,
+      "offset": 8772,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 8700,
+      "offset": 8811,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 8736,
+      "offset": 8847,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 8975,
+      "offset": 9086,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 9013,
+      "offset": 9124,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 9054,
+      "offset": 9165,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 9094,
+      "offset": 9205,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "StringLiteral",
-      "offset": 9130,
+      "offset": 9241,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 10556,
+      "offset": 10667,
       "length": 3,
       "value": "103"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 10576,
+      "offset": 10687,
       "length": 3,
       "value": "102"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 10603,
+      "offset": 10714,
       "length": 3,
       "value": "107"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 10628,
+      "offset": 10739,
       "length": 3,
       "value": "108"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 10652,
+      "offset": 10763,
       "length": 3,
       "value": "106"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 10678,
+      "offset": 10789,
       "length": 2,
       "value": "19"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 10733,
+      "offset": 10844,
       "length": 4,
       "value": "8000"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 10768,
+      "offset": 10879,
       "length": 4,
       "value": "8383"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 10798,
+      "offset": 10909,
       "length": 4,
       "value": "9116"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 10827,
+      "offset": 10938,
       "length": 5,
       "value": "70007"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 10870,
+      "offset": 10981,
       "length": 4,
       "value": "8270"
     },
     {
       "filePath": "\/Users\/zytrust\/Proyectos\/cliente\/banbif\/ios\/zy_banbif_bio_lib_ios\/zy_banbif_bio_lib_ios\/Classes\/api\/ZyModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 10905,
+      "offset": 11016,
       "length": 4,
       "value": "8087"
     },

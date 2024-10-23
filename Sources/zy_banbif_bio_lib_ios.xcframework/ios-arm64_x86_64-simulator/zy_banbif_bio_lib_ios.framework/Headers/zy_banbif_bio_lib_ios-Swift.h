@@ -344,6 +344,13 @@ SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios13ReactResponse")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+typedef SWIFT_ENUM(NSInteger, ScreenEnum, open) {
+  ScreenEnumREINTENTAR = 0,
+  ScreenEnumLIMITE_TIEMPO_ALZANZADO = 1,
+  ScreenEnumLIMITE_INTENTOS_ALCANZADO = 2,
+  ScreenEnumDEFAULT = 3,
+};
+
 
 /// Class which implements the various <code>URLSessionDelegate</code> methods to connect various Alamofire features.
 SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios15SessionDelegate")
@@ -400,8 +407,7 @@ SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios7Stepper")
 @property (nonatomic) NSInteger nuPasos;
 @property (nonatomic) NSInteger pasoActual;
 - (nonnull instancetype)initWithNuPasos:(NSInteger)nuPasos pasoActual:(NSInteger)pasoActual OBJC_DESIGNATED_INITIALIZER;
-- (nonnull instancetype)init SWIFT_UNAVAILABLE;
-+ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 
@@ -415,8 +421,10 @@ SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios7Stepper")
 SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios17VisualScreenError")
 @interface VisualScreenError : NSObject
 @property (nonatomic, copy) NSString * _Nonnull titulo;
-@property (nonatomic, copy) NSString * _Nonnull decripcion;
+@property (nonatomic, copy) NSString * _Nonnull descripcion;
 @property (nonatomic, copy) NSString * _Nonnull textBoton;
+@property (nonatomic) enum ScreenEnum screenEnum;
+- (nonnull instancetype)initWithTitulo:(NSString * _Nonnull)titulo descripcion:(NSString * _Nonnull)descripcion textBoton:(NSString * _Nonnull)textBoton screenEnum:(enum ScreenEnum)screenEnum OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -792,6 +800,13 @@ SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios13ReactResponse")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+typedef SWIFT_ENUM(NSInteger, ScreenEnum, open) {
+  ScreenEnumREINTENTAR = 0,
+  ScreenEnumLIMITE_TIEMPO_ALZANZADO = 1,
+  ScreenEnumLIMITE_INTENTOS_ALCANZADO = 2,
+  ScreenEnumDEFAULT = 3,
+};
+
 
 /// Class which implements the various <code>URLSessionDelegate</code> methods to connect various Alamofire features.
 SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios15SessionDelegate")
@@ -848,8 +863,7 @@ SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios7Stepper")
 @property (nonatomic) NSInteger nuPasos;
 @property (nonatomic) NSInteger pasoActual;
 - (nonnull instancetype)initWithNuPasos:(NSInteger)nuPasos pasoActual:(NSInteger)pasoActual OBJC_DESIGNATED_INITIALIZER;
-- (nonnull instancetype)init SWIFT_UNAVAILABLE;
-+ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 
@@ -863,8 +877,10 @@ SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios7Stepper")
 SWIFT_CLASS("_TtC21zy_banbif_bio_lib_ios17VisualScreenError")
 @interface VisualScreenError : NSObject
 @property (nonatomic, copy) NSString * _Nonnull titulo;
-@property (nonatomic, copy) NSString * _Nonnull decripcion;
+@property (nonatomic, copy) NSString * _Nonnull descripcion;
 @property (nonatomic, copy) NSString * _Nonnull textBoton;
+@property (nonatomic) enum ScreenEnum screenEnum;
+- (nonnull instancetype)initWithTitulo:(NSString * _Nonnull)titulo descripcion:(NSString * _Nonnull)descripcion textBoton:(NSString * _Nonnull)textBoton screenEnum:(enum ScreenEnum)screenEnum OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 

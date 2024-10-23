@@ -2201,29 +2201,30 @@ public struct ZyCrossRequest {
   public var stepper: zy_banbif_bio_lib_ios.Stepper
   public var errores: [zy_banbif_bio_lib_ios.VisualScreenError]
 }
-@objc @objcMembers public class Stepper : ObjectiveC.NSObject {
+@objc @_inheritsConvenienceInitializers @objcMembers public class Stepper : ObjectiveC.NSObject {
   @objc public var nuPasos: Swift.Int
   @objc public var pasoActual: Swift.Int
   @objc public init(nuPasos: Swift.Int, pasoActual: Swift.Int)
+  @objc override dynamic public init()
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @objcMembers public class VisualScreenError : ObjectiveC.NSObject {
   @objc public var titulo: Swift.String
-  @objc public var decripcion: Swift.String
+  @objc public var descripcion: Swift.String
   @objc public var textBoton: Swift.String
-  public var screenEnum: zy_banbif_bio_lib_ios.ScreenEnum
-  public init(titulo: Swift.String, decripcion: Swift.String, textBoton: Swift.String, screenEnum: zy_banbif_bio_lib_ios.ScreenEnum)
+  @objc public var screenEnum: zy_banbif_bio_lib_ios.ScreenEnum
+  @objc public init(titulo: Swift.String, descripcion: Swift.String, textBoton: Swift.String, screenEnum: zy_banbif_bio_lib_ios.ScreenEnum)
   @objc override dynamic public init()
   @objc deinit
 }
-public enum ScreenEnum {
+@objc public enum ScreenEnum : Swift.Int {
   case REINTENTAR
   case LIMITE_TIEMPO_ALZANZADO
   case LIMITE_INTENTOS_ALCANZADO
   case DEFAULT
-  public static func == (a: zy_banbif_bio_lib_ios.ScreenEnum, b: zy_banbif_bio_lib_ios.ScreenEnum) -> Swift.Bool
-  public func hash(into hasher: inout Swift.Hasher)
-  public var hashValue: Swift.Int {
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
     get
   }
 }
@@ -2638,6 +2639,7 @@ extension zy_banbif_bio_lib_ios.ZyLibError.CodingKeys : Swift.Hashable {}
 extension zy_banbif_bio_lib_ios.ZyLibError.CodingKeys : Swift.RawRepresentable {}
 extension zy_banbif_bio_lib_ios.ScreenEnum : Swift.Equatable {}
 extension zy_banbif_bio_lib_ios.ScreenEnum : Swift.Hashable {}
+extension zy_banbif_bio_lib_ios.ScreenEnum : Swift.RawRepresentable {}
 extension zy_banbif_bio_lib_ios.ZyCrossResponse.CodingKeys : Swift.Equatable {}
 extension zy_banbif_bio_lib_ios.ZyCrossResponse.CodingKeys : Swift.Hashable {}
 extension zy_banbif_bio_lib_ios.ZyCrossResponse.CodingKeys : Swift.RawRepresentable {}

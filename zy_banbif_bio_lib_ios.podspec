@@ -7,7 +7,7 @@
 #abc
 Pod::Spec.new do |s|
   s.name             = 'zy_banbif_bio_lib_ios'
-  s.version          = '1.0.5'
+  s.version          = '1.0.6'
   s.summary          = 'Libreria realizara para Biometria .'
   s.swift_versions   = '5.0'
 # This description is used to generate tags and improve search results.
@@ -37,8 +37,8 @@ esta libreria realiza validacion biométrica para personas con nacionalidad de P
 
   s.dependency 'JWTDecode', '3.1.0'
   s.dependency 'CryptoSwift', '1.3.3'
-  s.dependency 'zy_banbif_lib_ui_ios', '1.0.2'
-  s.dependency 'zy_lib_regula_ocr_ios', '0.3.1'
+  s.dependency 'zy_banbif_lib_ui_ios', '1.0.4'
+  s.dependency 'zy_lib_regula_ocr_ios', '0.3.2'
 
   
 end

@@ -7,7 +7,7 @@
 #abc
 Pod::Spec.new do |s|
   s.name             = 'zy_banbif_bio_lib_ios'
-  s.version          = '1.0.7'
+  s.version          = '1.0.8'
   s.summary          = 'Libreria realizara para Biometria .'
   s.swift_versions   = '5.0'
 # This description is used to generate tags and improve search results.
